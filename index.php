@@ -281,7 +281,7 @@
                                     <h2 class="title">We Provide The Best Services</h2>
                                 </div>
                                 <div class="title-desc">
-                                    <p>Our efforts will help to have a better approach to the planning phase, help build a better vision to make it entertaining &amp; memorable</p>
+                                    <p>We Take Care Of Everything From The Venue To The Return Of Gifts.</p>
                                 </div>
                             </div><!--section title end-->
                         </div>
@@ -313,31 +313,13 @@
                                 <div class="featured-icon">
                                     <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
                                         <i class="ttm-num ti-info"></i>
-                                        <i class="flaticon flaticon-wedding-rings"></i>
+                                       <i class="flaticon flaticon-couple"></i>
+
                                     </div>
                                 </div>
                                 <div class="featured-content">
                                     <div class="featured-title">
-                                        <h5>Wedding Registry</h5>
-                                    </div>
-                                    <div class="featured-desc">
-                                        <p>Receive the your wedding gifts are you want from your friends and relatives including cash gifts. Add products </p>
-                                    </div>
-                                </div>
-                            </div><!--featured-icon-box end-->
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <!--featured-icon-box-->
-                            <div class="featured-icon-box icon-align-top-content style4">
-                                <div class="featured-icon">
-                                    <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
-                                        <i class="ttm-num ti-info"></i>
-                                        <i class="flaticon flaticon-couple"></i>
-                                    </div>
-                                </div>
-                                <div class="featured-content">
-                                    <div class="featured-title">
-                                        <h5>Wedding Ceremony</h5>
+                                        <h5>Locating a Location</h5>
                                     </div>
                                     <div class="featured-desc">
                                         <p>Every wedding has a story to tell. It can be chosen based on your heritage & culture, on your life story!</p>
@@ -351,34 +333,15 @@
                                 <div class="featured-icon">
                                     <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
                                         <i class="ttm-num ti-info"></i>
-                                        <i class="flaticon flaticon-wine"></i>
+                                        <i class="flaticon flaticon-same-sex-marriage"></i>
                                     </div>
                                 </div>
                                 <div class="featured-content">
                                     <div class="featured-title">
-                                        <h5>Seating Chart</h5>
+                                        <h5>Invitation</h5>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>There are so many aspects to take it and look into consideration. We know would worry how our guests be treated!</p>
-                                    </div>
-                                </div>
-                            </div><!--featured-icon-box end-->
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <!--featured-icon-box-->
-                            <div class="featured-icon-box icon-align-top-content style4">
-                                <div class="featured-icon">
-                                    <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
-                                        <i class="ttm-num ti-info"></i>
-                                        <i class="flaticon flaticon-church-1"></i>
-                                    </div>
-                                </div>
-                                <div class="featured-content">
-                                    <div class="featured-title">
-                                        <h5>Vendor Manager</h5>
-                                    </div>
-                                    <div class="featured-desc">
-                                        <p>A complete wedding service, including strong focus on vendor selection and management on board hassle free! </p>
+                                        <p>To invite your significant guests, we can help you create and print personalized wedding invitations that complement the event theme.</p>
                                     </div>
                                 </div>
                             </div><!--featured-icon-box end-->
@@ -394,10 +357,48 @@
                                 </div>
                                 <div class="featured-content">
                                     <div class="featured-title">
-                                        <h5>The Perfect Cake</h5>
+                                        <h5>Food</h5>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>Food and drinks are very important and integral parts of our Indian weddings. Provide would be able to cater</p>
+                                        <p>To leave guests awestruck, serve delectable and authentic foods of any kind.</p>
+                                    </div>
+                                </div>
+                            </div><!--featured-icon-box end-->
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <!--featured-icon-box-->
+                            <div class="featured-icon-box icon-align-top-content style4">
+                                <div class="featured-icon">
+                                    <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
+                                        <i class="ttm-num ti-info"></i>
+                                        <i class="flaticon flaticon-dinner-table"></i>
+                                    </div>
+                                </div>
+                                <div class="featured-content">
+                                    <div class="featured-title">
+                                        <h5>Entertainment</h5>
+                                    </div>
+                                    <div class="featured-desc">
+                                        <p>DJ, live music, a dance performance, and more activities will keep the party going all night.</p>
+                                    </div>
+                                </div>
+                            </div><!--featured-icon-box end-->
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <!--featured-icon-box-->
+                            <div class="featured-icon-box icon-align-top-content style4">
+                                <div class="featured-icon">
+                                    <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
+                                        <i class="ttm-num ti-info"></i>
+                                        <i class="flaticon flaticon-wedding-rings"></i>
+                                    </div>
+                                </div>
+                                <div class="featured-content">
+                                    <div class="featured-title">
+                                        <h5>Gifts to be returned</h5>
+                                    </div>
+                                    <div class="featured-desc">
+                                        <p>Receive the your wedding gifts are you want from your friends and relatives including cash gifts.</p>
                                     </div>
                                 </div>
                             </div><!--featured-icon-box end-->
@@ -406,225 +407,6 @@
                 </div>
             </section>
             <!--services-section end-->
-
-
-            <!--portfolio_2-section-->
-            <section class="ttm-row portfolio_2-section clearfix">
-                <div class="container">
-                    <!--row-->
-                    <div class="row">
-                        <div class="col-lg-11 col-md-12">
-                            <!--section-title-->
-                            <div class="section-title style2">
-                                <div class="title-header">
-                                    <h5>Upcoming Weddings</h5>
-                                    <h2 class="title">Featured Weddings Plans</h2>
-                                </div>
-                                <div class="title-desc"><p>It’s no secret that a wedding is the most expensive party most people will ever throw. Wedco will you might want to opt for something edible, like a box of sweets.<a class="ttm-textcolor-skincolor" href="our-events.html"> View more</a></p>
-                                </div>
-                            </div><!--section-title end-->
-                        </div>
-                    </div><!--row end-->
-                    <!-- slick_slider -->
-                    <div class="row slick_slider slick-arrows-style1" data-slick='{"slidesToShow": 3, "slidesToScroll": 1, "arrows":true, "autoplay":false, "infinite":true, "responsive": [{"breakpoint":1100,"settings":{"slidesToShow": 3}} , {"breakpoint":777,"settings":{"slidesToShow": 2}}, {"breakpoint":480,"settings":{"slidesToShow": 1}}]}'>
-                        <div class="ttm-box-col-wrapper col-lg-4">
-                            <!--featured-imagebox-portfolio-->
-                            <div class="featured-imagebox featured-imagebox-portfolio style2">
-                                <div class="ttm-box-view-content-inner">
-                                    <!--featured-thumbnail-->
-                                    <div class="featured-thumbnail"> 
-                                        <img class="img-fluid" src="images/portfolio/01.jpg" alt="image"> 
-                                    </div>
-                                    <!--featured-thumbnail end-->
-                                    <div class="ttm-media-link">
-                                        <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]" title="Marketing Strategy" href="images/portfolio/01.jpg" data-rel="prettyPhoto" tabindex="0">
-                                            <i class="ti ti-search"></i>
-                                        </a>
-                                        <a href="wedding-bells.html" class="ttm_link" tabindex="0">
-                                            <i class="fa fa-random"></i></a>
-                                    </div>
-                                </div>
-                                <div class="featured-content featured-content-portfolio">
-                                    <div class="post-meta">
-                                        <span class="ttm-meta-line">Catering, Stories</span>
-                                        <span class="ttm-meta-line">25 Jul 2020</span>
-                                    </div>
-                                    <div class="featured-title">
-                                        <h5><a href="wedding-bells.html">Wedding Bells</a></h5>
-                                    </div>
-                                </div>
-                            </div><!--featured-imagebox-portfolio end-->
-                        </div>
-                        <div class="ttm-box-col-wrapper col-lg-4">
-                            <!--featured-imagebox-portfolio-->
-                            <div class="featured-imagebox featured-imagebox-portfolio style2">
-                                <div class="ttm-box-view-content-inner">
-                                    <!--featured-thumbnail-->
-                                    <div class="featured-thumbnail"> 
-                                        <img class="img-fluid" src="images/portfolio/02.jpg" alt="image"> 
-                                    </div>
-                                    <!--featured-thumbnail end-->
-                                    <div class="ttm-media-link">
-                                        <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]" title="Financial Forecast" href="images/portfolio/02.jpg" data-rel="prettyPhoto" tabindex="0">
-                                            <i class="ti ti-search"></i>
-                                        </a>
-                                        <a href="best-florists.html" class="ttm_link" tabindex="0">
-                                            <i class="fa fa-random"></i></a>
-                                    </div>
-                                </div>
-                                <div class="featured-content featured-content-portfolio">
-                                    <div class="post-meta">
-                                        <span class="ttm-meta-line">Decorate, Planning</span>
-                                        <span class="ttm-meta-line">25 Jul 2020</span>
-                                    </div>
-                                    <div class="featured-title">
-                                        <h5><a href="best-florists.html">Best Florists</a></h5>
-                                    </div>
-                                </div>
-                            </div><!--featured-imagebox-portfolio end-->
-                        </div>
-                        <div class="ttm-box-col-wrapper col-lg-4">
-                            <!--featured-imagebox-portfolio-->
-                            <div class="featured-imagebox featured-imagebox-portfolio style2">
-                                <div class="ttm-box-view-content-inner">
-                                    <!--featured-thumbnail-->
-                                    <div class="featured-thumbnail"> 
-                                        <img class="img-fluid" src="images/portfolio/03.jpg" alt="image"> 
-                                    </div>
-                                    <!--featured-thumbnail end-->
-                                    <div class="ttm-media-link">
-                                        <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]" title="Financial Planning" href="images/portfolio/03.jpg" data-rel="prettyPhoto" tabindex="0">
-                                            <i class="ti ti-search"></i>
-                                        </a>
-                                        <a href="bride-groom.html" class="ttm_link" tabindex="0">
-                                            <i class="fa fa-random"></i></a>
-                                    </div>
-                                </div>
-                                <div class="featured-content featured-content-portfolio">
-                                    <div class="post-meta">
-                                        <span class="ttm-meta-line">Catering</span>
-                                        <span class="ttm-meta-line">22 Jul 2020</span>
-                                    </div>
-                                    <div class="featured-title">
-                                        <h5><a href="bride-groom.html">Bride & Groom</a></h5>
-                                    </div>
-                                </div>
-                            </div><!--featured-imagebox-portfolio end-->
-                        </div>
-                        <div class="ttm-box-col-wrapper col-lg-4">
-                            <!--featured-imagebox-portfolio-->
-                            <div class="featured-imagebox featured-imagebox-portfolio style2">
-                                <div class="ttm-box-view-content-inner">
-                                    <!--featured-thumbnail-->
-                                    <div class="ttm-portfolio-format-video featured-thumbnail">
-                                        <iframe width="1280" height="800" src="https://www.youtube.com/embed/7GWSl1GQSSc" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-                                    </div><!--featured-thumbnail end-->
-                                </div>
-                                <div class="featured-content featured-content-portfolio">
-                                     <div class="post-meta">
-                                        <span class="ttm-meta-line">Decorate, Stories</span>
-                                        <span class="ttm-meta-line">22 Jul 2020</span>
-                                    </div>
-                                    <div class="featured-title">
-                                        <h5><a href="enganement.html">Engagement</a></h5>
-                                    </div>
-                                </div>
-                            </div><!--featured-imagebox-portfolio end-->
-                        </div>
-                        <div class="ttm-box-col-wrapper col-lg-4">
-                            <!--featured-imagebox-portfolio-->
-                            <div class="featured-imagebox featured-imagebox-portfolio style2">
-                                <div class="ttm-box-view-content-inner">
-                                    <!--featured-thumbnail-->
-                                    <div class="featured-thumbnail"> 
-                                        <img class="img-fluid" src="images/portfolio/05.jpg" alt="image"> 
-                                    </div>
-                                    <!--featured-thumbnail end-->
-                                    <div class="ttm-media-link">
-                                        <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]" title="Family Law" href="images/portfolio/05.jpg" data-rel="prettyPhoto" tabindex="0"><i class="ti ti-search"></i></a>
-                                        <a href="photo-memories.html" class="ttm_link" tabindex="0">
-                                            <i class="fa fa-random"></i></a>
-                                    </div>
-                                </div>
-                                <div class="featured-content featured-content-portfolio">
-                                    <div class="post-meta">
-                                        <span class="ttm-meta-line">Catering, Planning</span>
-                                        <span class="ttm-meta-line">22 Jul 2020</span>
-                                    </div>
-                                    <div class="featured-title">
-                                        <h5><a href="photo-memories.html">Photo Memories</a></h5>
-                                    </div>
-                                </div>
-                            </div><!--featured-imagebox-portfolio end-->
-                        </div>
-                        <div class="ttm-box-col-wrapper col-lg-4">
-                            <!--featured-imagebox-portfolio-->
-                            <div class="featured-imagebox featured-imagebox-portfolio style2">
-                                <div class="ttm-box-view-content-inner">
-                                    <!--featured-thumbnail-->
-                                    <div class="featured-thumbnail"> 
-                                        <img class="img-fluid" src="images/portfolio/06.jpg" alt="image"> 
-                                    </div><!--featured-thumbnail end-->
-                                    <div class="ttm-media-link">
-                                        <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]" title="Family Law" href="images/portfolio/06.jpg" data-rel="prettyPhoto" tabindex="0"><i class="ti ti-search"></i></a>
-                                        <a href="wedding-vows.html" class="ttm_link" tabindex="0">
-                                            <i class="fa fa-random"></i></a>
-                                    </div>
-                                </div>
-                                <div class="featured-content featured-content-portfolio">
-                                    <div class="post-meta">
-                                        <span class="ttm-meta-line">Planning</span>
-                                        <span class="ttm-meta-line">22 Jul 2020</span>
-                                    </div>
-                                    <div class="featured-title">
-                                        <h5><a href="wedding-vows.html">Wedding Vows</a></h5>
-                                    </div>
-                                </div>
-                            </div><!--featured-imagebox-portfolio end-->
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!--portfolio_2-section end--> 
-
-
-            <!--cta-section-->
-            <section class="ttm-row cta-section bg-img11 ttm-bg ttm-bgimage-yes clearfix">
-                <div class="ttm-row-wrapper-bg-layer ttm-bg-layer"></div>
-                <div class="container">
-                    <!--row-->
-                    <div class="row">
-                        <div class="col-lg-12 m-auto">
-                            <div class="row-title text-center ttm-textcolor-white">
-                                <div class="ttm-play-icon-btn">
-                                    <a href="https://youtu.be/7e90gBu4pas" target="_self" class="ttm_prettyphoto">
-                                        <div class="ttm-icon ttm-icon_element-border ttm-icon_element-color-white ttm-icon_element-size-sm ttm-icon_element-style-rounded">
-                                            <i class="fa fa-play"></i>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="pt-5">
-                                    <!--section title-->
-                                    <div class="section-title">
-                                        <div class="title-header">
-                                            <h5>WE ARE GETTING MARRIAGE</h5>
-                                            <h2 class="title pt-15">Save The date October 16th, 2020</h2>
-                                        </div>
-                                        <div class="title-desc">
-                                            <p>Get Your Quote or Call: (0095) 123-456-789</p>
-                                        </div>
-                                    </div><!--section title end-->
-                                </div>
-                                <div class="pt-10">
-                                    <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-btn-color-white" href="#">View details</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div> <!--row end-->
-                </div>
-            </section>
-            <!--cta-section end-->
-
 
             <!--why-choose-section-->
             <section class="ttm-row why-choose-section clearfix">
@@ -639,11 +421,7 @@
                                         <h5>Why Choose Us</h5>
                                         <h2 class="title">The Most Creatives Agency</h2>
                                     </div>
-                                    <div class="title-desc">
-                                        <p>We are creative for flawless execution, WedCo takes pride in being the most preferred <strong>event management</strong> companies all over the world since,1995!</p>
-                                    </div>
-                                </div><!--section title end-->
-                                <p>We’ve delivered fabulous wedding event experiences over the last two decades and are now <u><a class="ttm-textcolor-skincolor" href="#">poised to chart</a></u> out a whole new growth story. We have hosted the most great reputed company ever!. We make our best to make your event memorable and Unforgettable</p>
+                                </div><!--section title end-->  
                                 <div class="mt-30">
                                     <!--ttm-progress-bar-->
                                     <div class="ttm-progress-bar" data-percent="85%">
@@ -697,515 +475,170 @@
             </section>
             <!--why-choose-section-->
 
-
-            <!--testimonial-section-->
-            <section class="ttm-row testimonial-section ttm-bgcolor-grey ttm-bgimage-yes bg-img5 ttm-bg clearfix">
-                <div class="ttm-row-wrapper-bg-layer ttm-bg-layer"></div>
+                  <!--connect-section-->
+            <section class="ttm-row connect-section bg-img2 ttm-bgcolor-darkgrey clearfix">
                 <div class="container">
-                    <div class="row"><!--row-->
-                        <div class="col-lg-12 col-xl-12 col-md-12">
-                            <!--section-title-->
-                            <div class="section-title clearfix">
-                                <div class="title-header">
-                                    <h5>Upcoming Weddings</h5>
-                                    <h2 class="title">Featured Weddings Plans</h2>
+                    <!--row-->
+                    <div class="row">
+                        <div class="col-lg-12 text-center">
+                            <!--featured-icon-box-->
+                            <div class="featured-icon-box icon-align-top-content text-center style7">
+                                <div class="featured-icon">
+                                    <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-skincolor ttm-icon_element-style-rounded ttm-icon_element-size-md">
+                                        <i class="flaticon flaticon-wedding-rings-1"></i>
+                                        <span class="icon-dot one"></span>
+                                        <span class="icon-dot two"></span>
+                                        <span class="icon-dot three"></span>
+                                    </div>
                                 </div>
-                            </div><!--section-title end-->
+                                <div class="featured-content">
+                                    <div class="featured-desc">
+                                        <p>SKS Wedding Planner</p>
+                                    </div>
+                                    <div class="featured-title">
+                                        <h5>We Plan Every Detail Of Your Wedding!</h5>
+                                    </div>
+                                </div>
+                            </div><!--featured-icon-box end-->
+                            <div class="row pt-15">
+                                <div class="col-sm-6 offset-md-1 col-md-5 col-lg-3 offset-lg-3">
+                                    <!--featured-icon-box--> 
+                                    <div class="featured-icon-box icon-align-before-content style3">
+                                        <div class="featured-icon">
+                                            <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-style-rounded ttm-icon_element-size-sm">
+                                                <i class="fa fa-whatsapp"></i>
+                                            </div>
+                                        </div>
+                                        <div class="featured-content">
+                                            <div class="featured-title">
+                                                <h5>What’s App Chat</h5>
+                                            </div>
+                                            <div class="featured-desc text-left">
+                                                <p>(+01) 123 456 7890</p>
+                                            </div>
+                                        </div>
+                                    </div><!--featured-icon-box end-->
+                                </div>
+                                <div class="col-sm-6 col-md-5 col-lg-3">
+                                    <!--featured-icon-box--> 
+                                    <div class="featured-icon-box icon-align-before-content style3">
+                                        <div class="featured-icon"> 
+                                            <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-style-rounded ttm-icon_element-size-sm">
+                                                <i class="fa fa-skype"></i>
+                                            </div>
+                                        </div>
+                                        <div class="featured-content">
+                                            <div class="featured-title">
+                                                <h5>Skype Meet</h5>
+                                            </div>
+                                            <div class="featured-desc text-left">
+                                                <p class="">@themetechmount</p>
+                                            </div>
+                                        </div>
+                                    </div><!--featured-icon-box end-->
+                                </div>
+                            </div>
+                        </div>
+                    </div><!--row end-->
+                </div>
+            </section>
+            <!--connect-section end-->
+
+                       <!--testimonial-section-->
+            <section class="ttm-row testimonial-section bg-img12 ttm-bg ttm-bgimage-yes clearfix">
+                <div class="container">
+                    <!--row-->
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <!--section title-->
+                            <div class="section-title title-style-center_text">
+                                <div class="title-header">
+                                    <h5>Beautiful Client</h5>
+                                    <h2 class="title">What Our Clients Say?</h2>
+                                </div>
+                            </div><!--section title end-->
                         </div>
                     </div><!--row end-->
                     <!--row-->
-                    <div class="row slick_slider slick-arrows-style4 text-center" data-slick='{"slidesToShow": 3, "slidesToScroll": 1, "arrows":true, "autoplay":false, "dots":false, "infinite":true, "responsive":[{"breakpoint":1199,"settings": {"slidesToShow": 3}}, {"breakpoint":992,"settings":{"slidesToShow": 2}},{"breakpoint":620,"settings":{"slidesToShow": 1}}]}'>
-                        <div class="col-lg-4">
+                    <div class="row slick_slider text-center" data-slick='{"slidesToShow": 2, "slidesToScroll": 1, "arrows":false, "autoplay":true, "dots":false, "infinite":true, "responsive":[{"breakpoint":1199,"settings": {"slidesToShow": 3}}, {"breakpoint":992,"settings":{"slidesToShow": 2}},{"breakpoint":620,"settings":{"slidesToShow": 1}}]}'>
+                        <div class="col-lg-6">
                             <!--testimonials-->
-                            <div class="testimonials style3"> 
+                            <div class="testimonials style1"> 
                                 <div class="testimonial-avatar">
-                                    <!--testimonials-img-->
                                     <div class="testimonial-img">
                                         <img class="img-center" src="images/testimonial/01.jpg" alt="testimonial-img">
                                     </div>
                                 </div>
                                 <div class="testimonial-content">
-                                    <i class="fa fa-quote-left"></i>
-                                    <blockquote>Thank you wedco for helping me give my daughter the wedding of her dreams. You guys did a fantastic job of turning our thoughts into reality!!</blockquote>
+                                    <i class="ti-quote-left"></i>
+                                    <blockquote>Thank you wedco for helping me give my daughter the wedding of her dreams. You guys did a fantastic job of turning our thoughts into reality!!
+                                    </blockquote>
                                     <div class="testimonial-caption">
                                         <h5>Elina Christopher</h5>
                                         <label>Beauty Bride</label>
                                     </div>
                                 </div>
-                            </div>
-                            <!--testimonials end-->
+                            </div><!--testimonials end-->
                         </div>
-                        <div class="col-lg-4">
-                            <!--testimonials-->
-                            <div class="testimonials style3"> 
+                        <div class="col-lg-6">
+                            <!-- testimonials-->
+                            <div class="testimonials style1"> 
                                 <div class="testimonial-avatar">
-                                    <!--testimonials-img-->
                                     <div class="testimonial-img">
                                         <img class="img-center" src="images/testimonial/02.jpg" alt="testimonial-img">
                                     </div>
                                 </div>
                                 <div class="testimonial-content">
-                                    <i class="fa fa-quote-left"></i>
-                                    <blockquote>Team Wedco executed extremely beautiful wedding for our children. They’re hardworking to the point where they priorities work enforcement..!</blockquote>
-                                    <div class="testimonial-caption">
-                                        <h5>Jhon Nicholas</h5>
-                                        <label>Event Guest</label>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--testimonials end-->
-                        </div>
-                        <div class="col-lg-4">
-                            <!--testimonials-->
-                            <div class="testimonials style3"> 
-                                <div class="testimonial-avatar">
-                                    <!--testimonials-img-->
-                                    <div class="testimonial-img">
-                                        <img class="img-center" src="images/testimonial/03.jpg" alt="testimonial-img">
-                                    </div>
-                                </div>
-                                <div class="testimonial-content">
-                                    <i class="fa fa-quote-left"></i>
-                                    <blockquote>Thank you wedco for helping me give my daughter the wedding of her dreams. You guys did a fantastic job of turning our thoughts into reality!!</blockquote>
-                                    <div class="testimonial-caption">
-                                        <h5>Maria Gregory</h5>
-                                        <label>Wedding Couple</label>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--testimonials end-->
-                        </div>
-                        <div class="col-lg-4">
-                            <!--testimonials-->
-                            <div class="testimonials style3"> 
-                                <div class="testimonial-avatar">
-                                    <!--testimonials-img-->
-                                    <div class="testimonial-img">
-                                        <img class="img-center" src="images/testimonial/04.jpg" alt="testimonial-img">
-                                    </div>
-                                </div>
-                                <div class="testimonial-content">
-                                    <i class="fa fa-quote-left"></i>
+                                    <i class="ti-quote-left"></i>
                                     <blockquote>Team Wedco executed extremely beautiful wedding for our children. They’re hardworking to the point where they priorities work enforcement..!</blockquote>
                                     <div class="testimonial-caption">
                                         <h5>Julia Brandon</h5>
                                         <label>Event Guest</label>
                                     </div>
                                 </div>
-                            </div>
-                            <!--testimonials end-->
+                            </div><!--testimonials end-->
+                        </div>
+                        <div class="col-lg-6">
+                            <!--testimonials-->
+                            <div class="testimonials style1"> 
+                                <div class="testimonial-avatar">
+                                    <div class="testimonial-img">
+                                        <img class="img-center" src="images/testimonial/03.jpg" alt="testimonial-img">
+                                    </div>
+                                </div>
+                                <div class="testimonial-content">
+                                    <i class="ti-quote-left"></i>
+                                    <blockquote>Thank you wedco for helping me give my daughter the wedding of her dreams. You guys did a fantastic job of turning our thoughts into reality!!
+                                    </blockquote>
+                                    <div class="testimonial-caption">
+                                        <h5>Maria Gregory</h5>
+                                        <label>Wedding Couple</label>
+                                    </div>
+                                </div>
+                            </div><!--testimonials end-->
+                        </div>
+                        <div class="col-lg-6">
+                            <!--testimonials -->
+                            <div class="testimonials style1"> 
+                                <div class="testimonial-avatar">
+                                    <div class="testimonial-img">
+                                        <img class="img-center" src="images/testimonial/04.jpg" alt="testimonial-img">
+                                    </div>
+                                </div>
+                                <div class="testimonial-content">
+                                    <i class="ti-quote-left"></i>
+                                    <blockquote>Team Wedco executed extremely beautiful wedding for our children. They’re hardworking to the point where they priorities work enforcement..!</blockquote>
+                                    <div class="testimonial-caption">
+                                        <h5>Jhon Nicholas</h5>
+                                        <label>Event Guest</label>
+                                    </div>
+                                </div>
+                            </div><!--testimonials end-->
                         </div>
                     </div><!--row end-->
                 </div>
             </section>
             <!--testimonial-section end-->
-
-
-            <!--portfolio-section -->
-            <section class="ttm-row portfolio-section clearfix ">
-                <div class="container">
-                    <!--row-->
-                    <div class="row">
-                        <div class="col-lg-6 col-md-8 col-sm-10 m-auto">
-                            <!--section-title-->
-                            <div class="section-title title-style-center_text">
-                                <div class="title-header">
-                                    <h5>Wedding Gallery</h5>
-                                    <h2 class="title">Your Forever Memories</h2>
-                                </div>
-                                <div class="title-desc">
-                                    <p>We are an artist to create the best memories for our clients and couples of their fairy tale best wedding saga forever.</p>
-                                </div>
-                            </div><!--section-title end-->
-                        </div>
-                    </div><!--row end-->
-                    <!--row-->
-                    <div class="row">
-                        <div class="col-lg-6 col-md-6 col-sm-6">
-                            <!--featured-imagebox-event-->
-                            <div class="featured-imagebox featured-imagebox-portfolio style3">
-                                <div class="ttm-box-view-overlay">
-                                    <!--featured-thumbnail-->
-                                    <div class="featured-thumbnail">
-                                        <a href="#"><img class="img-fluid" src="images/portfolio/portfolio-03-1145x640.jpg" alt="image"></a>
-                                    </div><!--featured-thumbnail end-->
-                                    <div class="ttm-media-link">
-                                        <a class="ttm_prettyphoto ttm_image" title="Business Card Design" data-rel="prettyPhoto" href="images/portfolio/portfolio-03-1145x640.jpg">
-                                            <i class="ti ti-search"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div><!--featured-imagebox-event end-->
-                        </div>
-                        <div class="col-lg-3 col-md-3 col-sm-3">
-                            <!--featured-imagebox-event-->
-                            <div class="featured-imagebox featured-imagebox-portfolio style3">
-                                <div class="ttm-box-view-overlay">
-                                    <!--featured-thumbnail-->
-                                    <div class="featured-thumbnail">
-                                        <a href="#"><img class="img-fluid" src="images/portfolio/portfolio-01-540x640.jpg" alt="image"></a>
-                                    </div><!--featured-thumbnail end-->
-                                    <div class="ttm-media-link">
-                                        <a class="ttm_prettyphoto ttm_image" title="Business Card Design" data-rel="prettyPhoto" href="images/portfolio/portfolio-01-540x640.jpg">
-                                            <i class="ti ti-search"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div><!--featured-imagebox-event end-->
-                        </div>
-                        <div class="col-lg-3 col-md-3 col-sm-3">
-                            <!--featured-imagebox-event-->
-                            <div class="featured-imagebox featured-imagebox-portfolio style3">
-                                <div class="ttm-box-view-overlay">
-                                    <!--featured-thumbnail-->
-                                    <div class="featured-thumbnail">
-                                        <a href="#"><img class="img-fluid" src="images/portfolio/portfolio-02-540x640.jpg" alt="image"></a>
-                                    </div><!--featured-thumbnail end-->
-                                    <div class="ttm-media-link">
-                                        <a class="ttm_prettyphoto ttm_image" title="Business Card Design" data-rel="prettyPhoto" href="images/portfolio/portfolio-02-540x640.jpg">
-                                            <i class="ti ti-search"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div><!--featured-imagebox-event end-->
-                        </div>
-                        <div class="col-lg-3 col-md-3 col-sm-3">
-                            <!--featured-imagebox-event-->
-                            <div class="featured-imagebox featured-imagebox-portfolio style3">
-                                <div class="ttm-box-view-overlay">
-                                    <!--featured-thumbnail-->
-                                    <div class="featured-thumbnail">
-                                        <a href="#"><img class="img-fluid" src="images/portfolio/portfolio-03-540x640.jpg" alt="image"></a>
-                                    </div><!--featured-thumbnail end-->
-                                    <div class="ttm-media-link">
-                                        <a class="ttm_prettyphoto ttm_image" title="Business Card Design" data-rel="prettyPhoto" href="images/portfolio/portfolio-03-540x640.jpg">
-                                            <i class="ti ti-search"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div><!--featured-imagebox-event end-->
-                        </div>
-                        <div class="col-lg-3 col-md-3 col-sm-3">
-                            <!--featured-imagebox-event-->
-                            <div class="featured-imagebox featured-imagebox-portfolio style3">
-                                <div class="ttm-box-view-overlay">
-                                    <!--featured-thumbnail-->
-                                    <div class="featured-thumbnail">
-                                        <a href="#"><img class="img-fluid" src="images/portfolio/portfolio-04-540x640.jpg" alt="image"></a>
-                                    </div><!--featured-thumbnail end-->
-                                    <div class="ttm-media-link">
-                                        <a class="ttm_prettyphoto ttm_image" title="Business Card Design" data-rel="prettyPhoto" href="images/portfolio/portfolio-04-540x640.jpg">
-                                            <i class="ti ti-search"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div><!--featured-imagebox-event end-->
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-6">
-                            <!--featured-imagebox-event-->
-                            <div class="featured-imagebox featured-imagebox-portfolio style3">
-                                <div class="ttm-box-view-overlay">
-                                    <!--featured-thumbnail-->
-                                    <div class="featured-thumbnail">
-                                        <a href="#"><img class="img-fluid" src="images/portfolio/portfolio-02-1145x640.jpg" alt="image"></a>
-                                    </div><!--featured-thumbnail end-->
-                                    <div class="ttm-media-link">
-                                        <a class="ttm_prettyphoto ttm_image" title="Business Card Design" data-rel="prettyPhoto" href="images/portfolio/portfolio-02-1145x640.jpg">
-                                            <i class="ti ti-search"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div><!--featured-imagebox-event end-->
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!--portfolio-section end--> 
-
-
-            <!--pricing_plan-section-->
-            <section class="ttm-row pricing_plan-section ttm-bg ttm-bgimage-yes ttm-bgcolor-grey clearfix">
-                <div class="container">
-                    <!--row-->
-                    <div class="row">
-                        <div class="col-lg-10 col-md-8">
-                            <!--section title-->
-                            <div class="section-title style2">
-                                <div class="title-header">
-                                    <h5>Choose Your Plan</h5>
-                                    <h2 class="title">Your Wedding Packages</h2>
-                                </div>
-                                <div class="title-desc">
-                                    <p>Checkout our various packages for the best organized events as per your choice. We are humble to serve you accordingly</p>
-                                </div>
-                            </div><!--section title end-->
-                        </div>
-                         <div class="col-lg-2 col-md-4">
-                            <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-btn-color-dark mt-10 mb-10 float-md-right" href="contact-us.html">Get A Quote</a>
-                        </div>
-                    </div><!--row end-->
-                    <!--row-->
-                    <div class="row mb_15">
-                        <div class="col-lg-4 col-md-4">
-                            <!--ttm-pricing-plan-->
-                            <div class="ttm-pricing-plan">
-                                <div class="ttm-p_table-head">
-                                    <div class="ttm-p_table-title"><h3>Relax Basic</h3></div>
-                                </div>
-                                <div class="ttm-p_table-body">
-                                    <div class="ttm-p_table-amount">
-                                        <span class="cur_symbol">$</span>299
-                                    </div>
-                                    <ul class="ttm-p_table-features">
-                                        <li>Relaxing Message</li>
-                                        <li>Manicure &amp; Pedicure</li>
-                                        <li>Body  Polish</li>
-                                        <li>Relaxing Message</li>
-                                        <li>Body  Polish</li>
-                                    </ul>
-                                </div>
-                                <div class="mt-15">
-                                    <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-btn-color-darkgrey" href="#">Send
-                                    </a>
-                                </div>
-                            </div><!--ttm-pricing-plan-->
-                        </div>
-                        <div class="col-lg-4 col-md-4">
-                            <!--ttm-pricing-plan-->
-                            <div class="ttm-pricing-plan">
-                                <div class="ttm-p_table-head">
-                                    <div class="ttm-p_table-title"><h3>Standard</h3></div>
-                                </div>
-                                <div class="ttm-p_table-body">
-                                    <div class="ttm-p_table-amount">
-                                        <span class="cur_symbol">$</span>399
-                                    </div>
-                                    <ul class="ttm-p_table-features">
-                                        <li>Relaxing Message</li>
-                                        <li>Manicure &amp; Pedicure</li>
-                                        <li>Body  Polish</li>
-                                        <li>Relaxing Message</li>
-                                        <li>Body  Polish</li>
-                                    </ul>
-                                </div>
-                                <div class="mt-15">
-                                    <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-fill ttm-btn-color-skincolor" href="#">Send</a>
-                                </div>
-                            </div><!--ttm-pricing-plan-->
-                        </div>
-                        <div class="col-lg-4 col-md-4">
-                            <!--ttm-pricing-plan-->
-                            <div class="ttm-pricing-plan">
-                                <div class="ttm-p_table-head">
-                                    <div class="ttm-p_table-title"><h3>Exclusive</h3></div>
-                                </div>
-                                <div class="ttm-p_table-body">
-                                    <div class="ttm-p_table-amount">
-                                        <span class="cur_symbol">$</span>499
-                                    </div>
-                                    <ul class="ttm-p_table-features">
-                                        <li>Relaxing Message</li>
-                                        <li>Manicure &amp; Pedicure</li>
-                                        <li>Body  Polish</li>
-                                        <li>Relaxing Message</li>
-                                        <li>Body  Polish</li>
-                                    </ul>
-                                </div>
-                                <div class="mt-15">
-                                    <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-btn-color-darkgrey" href="#">Send</a>
-                                </div>
-                            </div><!--ttm-pricing-plan-->
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!--pricing_plan-section end-->
-
-
-            <!--blog-section-->
-            <section class="ttm-row bolg-section clearfix">
-                    <div class="container">
-                        <!--row-->
-                        <div class="row">
-                            <div class="col-lg-6 col-md-8 col-sm-10 m-auto">
-                                <!--section-title-->
-                                <div class="section-title title-style-center_text">
-                                    <div class="title-header">
-                                        <h5>Latest News Articles</h5>
-                                        <h2 class="title">Watch Our Latest Blog</h2>
-                                    </div>
-                                    <div class="title-desc">
-                                        <p>Checkout our least blog from the most liked bloggers regarding wedding and different aspects that most helpful for others</p>
-                                    </div>
-                                </div><!--section-title end-->
-                            </div>
-                        </div><!--row end-->
-                        <!--row-->
-                        <div class="row slick_slider" data-slick='{"slidesToShow": 3, "slidesToScroll": 1, "arrows":false, "autoplay":true, "infinite":true, "responsive": [{"breakpoint":870,"settings":{"slidesToShow": 2}}, {"breakpoint":540,"settings":{"slidesToShow": 1}}]}'>
-                        <div class="ttm-box-col-wrapper col-lg-4">
-                            <!--featured-imagebox-blog-->
-                            <div class="featured-imagebox featured-imagebox-blog">
-                                <!--featured-thumbnail-->
-                                <div class="featured-thumbnail"> 
-                                    <div class="ttm-box-post-date">
-                                        <span class="ttm-entry-date">
-                                            <time class="entry-date" datetime="2019-01-16T07:07:55+00:00">30<span class="entry-month entry-year">OCT</span></time>
-                                        </span>
-                                    </div>
-                                    <img class="img-fluid" src="images/blog/07.jpg" alt="image"> 
-                                </div><!--featured-thumbnail end-->
-                                <div class="featured-content">
-                                    <div class="post-meta">
-                                        <span class="ttm-meta-line"><i class="fa fa-folder"></i>home-catering</span>
-                                        <span class="ttm-meta-line"><i class="fa fa-user"></i>John Doe</span>
-                                    </div>
-                                    <div class="featured-title">
-                                        <h5><a href="blog-single.html">Tips for Making Business Catering Affordable</a>
-                                        </h5>
-                                    </div>
-                                    <div class="featured-desc">
-                                        <p>The right pair of safe hands and the peace of mind delivered by your event We’ve de...</p>
-                                    </div>
-                                </div>
-                            </div><!--featured-imagebox-post end-->
-                        </div>
-                        <div class="ttm-box-col-wrapper col-lg-4">
-                            <!--featured-imagebox-blog-->
-                            <div class="featured-imagebox featured-imagebox-blog">
-                                <!--featured-thumbnail-->
-                                <div class="featured-thumbnail">
-                                    <div class="ttm-box-post-date">
-                                        <span class="ttm-entry-date">
-                                            <time class="entry-date" datetime="2019-01-16T07:07:55+00:00">30
-                                            <span class="entry-month entry-year">OCT</span></time>
-                                        </span>
-                                    </div> 
-                                    <img class="img-fluid" src="images/blog/08.jpg" alt="image"> 
-                                </div><!--featured-thumbnail end-->
-                                <div class="featured-content">
-                                    <div class="post-meta">
-                                        <span class="ttm-meta-line"><i class="fa fa-folder"></i>home-catering
-                                        </span>
-                                        <span class="ttm-meta-line"><i class="fa fa-user"></i>John Doe</span>
-                                    </div>
-                                    <div class="featured-title">
-                                        <h5><a href="blog-single.html">Special Considerations for Outdoor Wedding Catering</a></h5>
-                                    </div>
-                                    <div class="featured-desc">
-                                        <p>The right pair of safe hands and the peace of mind delivered by your event We’ve de...</p>
-                                    </div>
-                                </div>
-                            </div><!--featured-imagebox-post end-->
-                        </div>
-                        <div class="ttm-box-col-wrapper col-lg-4">
-                            <!--featured-imagebox-blog-->
-                            <div class="featured-imagebox featured-imagebox-blog">  
-                                <!--featured-thumbnail-->                          
-                                <div class="featured-thumbnail"> 
-                                    <div class="ttm-box-post-date">
-                                        <span class="ttm-entry-date">
-                                            <time class="entry-date" datetime="2019-01-16T07:07:55+00:00">11<span class="entry-month entry-year">Sep</span></time>
-                                        </span>
-                                    </div>
-                                    <img class="img-fluid" src="images/blog/03.jpg" alt="image"> 
-                                </div><!--featured-thumbnail end-->
-                                <div class="featured-content">
-                                    <div class="post-meta">
-                                        <span class="ttm-meta-line"><i class="fa fa-folder"></i>Dancing</span>
-                                        <span class="ttm-meta-line"><i class="fa fa-user"></i>John Doe</span>
-                                    </div>
-                                    <div class="featured-title">
-                                        <h5><a href="blog-single.html">Special Benefit Through Est  Be Your Money</a></h5>
-                                    </div>
-                                    <div class="featured-desc">
-                                        <p>The right pair of safe hands & the peace of mind delivered by your event.</p>
-                                    </div>
-                                </div>
-                            </div><!--featured-imagebox-post end-->
-                        </div>
-                        <div class="ttm-box-col-wrapper col-lg-4">
-                            <!--featured-imagebox-blog-->
-                            <div class="featured-imagebox featured-imagebox-blog">
-                                <!--featured-thumbnail-->
-                                <div class="featured-thumbnail"> 
-                                    <div class="ttm-box-post-date">
-                                        <span class="ttm-entry-date">
-                                            <time class="entry-date" datetime="2019-01-16T07:07:55+00:00">11<span class="entry-month entry-year">SEP</span></time>
-                                        </span>
-                                    </div>
-                                    <img class="img-fluid" src="images/blog/04.jpg" alt="image"> 
-                                </div><!--featured-thumbnail end-->
-                                <div class="featured-content">
-                                    <div class="post-meta">
-                                        <span class="ttm-meta-line"><i class="fa fa-folder"></i>Catering</span>
-                                        <span class="ttm-meta-line"><i class="fa fa-user"></i>John Doe</span>
-                                    </div>
-                                    <div class="featured-title">
-                                        <h5><a href="blog-single.html">Fall wedding colors might be the best wedding</a></h5>
-                                    </div>
-                                    <div class="featured-desc">
-                                        <p>Monsoon is almost here and we are just can’t wait for ‘em showers to give us.</p>
-                                    </div>
-                                </div>
-                            </div><!--featured-imagebox-blog end-->
-                        </div>
-                        <div class="ttm-box-col-wrapper col-lg-4">
-                            <!--featured-imagebox-blog-->
-                            <div class="featured-imagebox featured-imagebox-blog">
-                                <!--featured-thumbnail-->
-                                <div class="featured-thumbnail"> 
-                                    <div class="ttm-box-post-date">
-                                        <span class="ttm-entry-date">
-                                            <time class="entry-date" datetime="2019-01-16T07:07:55+00:00">05<span class="entry-month entry-year">AUG</span></time>
-                                        </span>
-                                    </div>
-                                    <img class="img-fluid" src="images/blog/05.jpg" alt="image"> 
-                                </div><!--featured-thumbnail end-->
-                                <div class="featured-content">
-                                    <div class="post-meta">
-                                        <span class="ttm-meta-line"><i class="fa fa-folder"></i>DJ Night</span>
-                                        <span class="ttm-meta-line"><i class="fa fa-user"></i>John Doe</span>
-                                    </div>
-                                    <div class="featured-title">
-                                        <h5><a href="blog-single.html">What are Experiential Weddings?</a></h5>
-                                    </div>
-                                    <div class="featured-desc">
-                                        <p>Upcycling is one of the best ways to decorate an intimate wedding setting.</p>
-                                    </div>
-                                </div>
-                            </div><!--featured-imagebox-blog end-->
-                        </div>
-                        <div class="ttm-box-col-wrapper col-lg-4">
-                            <!--featured-imagebox-blog-->
-                            <div class="featured-imagebox featured-imagebox-blog">
-                                <!--featured-thumbnail-->
-                                <div class="featured-thumbnail"> 
-                                    <div class="ttm-box-post-date">
-                                        <span class="ttm-entry-date">
-                                            <time class="entry-date" datetime="2019-01-16T07:07:55+00:00">30<span class="entry-month entry-year">OCT</span></time>
-                                        </span>
-                                    </div>
-                                    <img class="img-fluid" src="images/blog/06.jpg" alt="image"> 
-                                </div><!--featured-thumbnail end-->
-                                <div class="featured-content">
-                                    <div class="post-meta">
-                                        <span class="ttm-meta-line"><i class="fa fa-folder"></i>home-catering</span>
-                                        <span class="ttm-meta-line"><i class="fa fa-user"></i>John Doe</span>
-                                    </div>
-                                    <div class="featured-title">
-                                        <h5><a href="blog-single.html">Catering Can Make Any Special Meal a Celebration</a></h5>
-                                    </div>
-                                    <div class="featured-desc">
-                                        <p>The right pair of safe hands and the peace of mind delivered by your event We’ve de...</p>
-                                    </div>
-                                </div>
-                            </div><!-- featured-imagebox-blog end-->
-                        </div>
-                        </div>
-                    </div>
-            </section>
-            <!--blog-section end-->
-
 
         </div><!-- site-main end -->
 

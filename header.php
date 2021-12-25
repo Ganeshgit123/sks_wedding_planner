@@ -1,4 +1,3 @@
-<!--header start-->
     <header id="masthead" class="header ttm-header-style-01">
         <div id="site-header-menu" class="site-header-menu ttm-bgcolor-darkgrey">
                 <div class="site-header-menu-inner ttm-stickable-header">
@@ -24,7 +23,8 @@
                                         <a href="index.php" class="mega-menu-link">Home</a>
                                     </li>
                                     <li class="<?php if($page=='about'){echo 'active';}?>"><a href="about-us.php">About Us</a></li>
-                                    <li class="mega-menu-item">
+                                      <li class="<?php if($page=='services'){echo 'active';}?>"><a href="services.php">Services</a></li>
+                                   <!--  <li class="mega-menu-item">
                                         <a href="#" class="mega-menu-link">Pages</a>
                                         <ul class="mega-submenu">
                                             <li><a href="about-us.html">About Us 1</a></li>
@@ -46,42 +46,23 @@
                                                 </ul>
                                             </li>                                            
                                         </ul>
-                                    </li>
-                                    <li class="mega-menu-item">
+                                    </li> -->
+                                 <!--    <li class="mega-menu-item">
                                         <a href="#" class="mega-menu-link">Services</a>
                                         <ul class="mega-submenu">
-                                            <li><a href="lovely-decoration.html">Lovely Decoration</a></li>
-                                            <li><a href="live-music-and-dj.html">Live Music & Dj</a></li>
-                                            <li><a href="dinner-and-drinks.html">Dinner & Drinks</a></li>
-                                            <li><a href="seating-chart.html">Seating Chart</a></li>
-                                            <li><a href="responsible-sourcing.html">Responsible Sourcing</a></li>
-                                            <li><a href="costume-services.html">Costume Services</a></li>
+                                            <li><a href="lovely-decoration.html">WEDDING LOCATION</a></li>
+                                            <li><a href="live-music-and-dj.html">INVITATIONS TO WEDDINGS</a></li>
+                                            <li><a href="dinner-and-drinks.html">CATERING</a></li>
+                                            <li><a href="seating-chart.html">DECORATION FOR A WEDDING</a></li>
+                                            <li><a href="responsible-sourcing.html">HONEYMOON PACKAGES</a></li>
+                                            <li><a href="costume-services.html">PHOTOGRAPHY & VIDEOGRAPHY </a></li>
+                                            <li><a href="costume-services.html">ENTERTAINMENT</a></li>
                                         </ul>
-                                    </li>
-                                    <li class="mega-menu-item">
-                                        <a href="#" class="mega-menu-link">Portfolio</a>
-                                        <ul class="mega-submenu">
-                                            <li><a href="portfolio-style-01.html">Portfolio Style 1</a></li>
-                                            <li><a href="portfolio-style-02.html">Portfolio Style 2</a></li>
-                                            <li class="mega-menu-item">
-                                                <a href="#" class="mega-menu-link">Portfolio Single</a>
-                                                <ul class="mega-submenu">
-                                                    <li><a href="wedding-bells.html">Single Style One</a></li>
-                                                    <li><a href="best-florists.html">Single Style Two</a></li>
-                                                    <li><a href="bride-groom.html">Single Style Three</a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li class="mega-menu-item">
-                                        <a href="#" class="mega-menu-link">Blog</a>
-                                        <ul class="mega-submenu">
-                                            <li><a href="blog.html">Blog Classic</a></li>
-                                            <li><a href="blog-grid.html">Blog Grid View</a></li>
-                                            <li><a href="blog-top-image.html">Blog Top Image</a></li>
-                                            <li><a href="blog-single.html">Blog Single View</a></li>
-                                        </ul>
-                                    </li>
+                                    </li> -->
+
+            
+                                    <li class="<?php if($page=='gallery'){echo 'active';}?>"><a href="gallery.php">Gallery</a></li>
+                                    <li><a href="#">Blog</a></li>
                                     <li class="<?php if($page=='contact'){echo 'active';}?>"><a href="contact-us.php">Contact Us</a></li>
                                 </ul>
                             </nav>
@@ -107,4 +88,4 @@
                 </div>
             </div>
         </header>
-        <!--header end-->
+        <!--header end
