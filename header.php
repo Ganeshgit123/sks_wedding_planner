@@ -8,7 +8,7 @@
                             <div class="site-branding">
                                 <a class="home-link" href="index.php" title="wedco" rel="home">
                                     <img id="logo-img" class="img-center standardlogo" src="images/logo-img.png" alt="logo-img">
-                                    <img id="logo-dark" class="img-center stickylogo" src="images/logo-dark.png" alt="logo-img">
+                                    <img id="logo-dark" class="img-center stickylogo" src="images/logo-img.png" alt="logo-img">
                                 </a>
                             </div><!-- site-branding end -->
                             <div class="btn-show-menu-mobile menubar menubar--squeeze">
