@@ -23,7 +23,16 @@
                                         <a href="index.php" class="mega-menu-link">Home</a>
                                     </li>
                                     <li class="<?php if($page=='about'){echo 'active';}?>"><a href="about-us.php">About Us</a></li>
-                                      <li class="<?php if($page=='services'){echo 'active';}?>"><a href="services.php">Services</a></li>
+                                      <li class="mega-menu-item">
+                                        <a href="#" class="<?php if($page=='services'){echo 'mega-menu-link active';}?>">Services</a>
+                                        <ul class="mega-submenu">
+                                            <li><a href="wedding_organizing.php">Wedding organizing</a></li>
+                                            <li><a href="birthday-party.php">Birthday Party organizing </a></li>
+                                            <li><a href="corporate-events.php">Corporate/ Business event organizing</a></li>
+                                            <li><a href="baby-shower-event.php">Baby shower & Naming ceremony organizing</a></li>
+                                            <li><a href="other-party.php">Other Parties organizing</a></li>
+                                        </ul>
+                                    </li>
                                    <!--  <li class="mega-menu-item">
                                         <a href="#" class="mega-menu-link">Pages</a>
                                         <ul class="mega-submenu">
@@ -47,18 +56,7 @@
                                             </li>                                            
                                         </ul>
                                     </li> -->
-                                 <!--    <li class="mega-menu-item">
-                                        <a href="#" class="mega-menu-link">Services</a>
-                                        <ul class="mega-submenu">
-                                            <li><a href="lovely-decoration.html">WEDDING LOCATION</a></li>
-                                            <li><a href="live-music-and-dj.html">INVITATIONS TO WEDDINGS</a></li>
-                                            <li><a href="dinner-and-drinks.html">CATERING</a></li>
-                                            <li><a href="seating-chart.html">DECORATION FOR A WEDDING</a></li>
-                                            <li><a href="responsible-sourcing.html">HONEYMOON PACKAGES</a></li>
-                                            <li><a href="costume-services.html">PHOTOGRAPHY & VIDEOGRAPHY </a></li>
-                                            <li><a href="costume-services.html">ENTERTAINMENT</a></li>
-                                        </ul>
-                                    </li> -->
+                               
 
             
                                     <li class="<?php if($page=='gallery'){echo 'active';}?>"><a href="gallery.php">Gallery</a></li>

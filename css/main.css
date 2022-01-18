@@ -2452,3 +2452,43 @@ section.error-404 .page-content p { font-size: 18px; margin-bottom: 30px; }
 #map { display: block; height: 400px; width: 100%; }
 
 
+/*Accrodian Tab css*/
+.accordion{
+    margin: 40px 0;
+}
+.accordion .card-header:after {
+    font-family: 'FontAwesome';  
+    content: "\f107";
+    font-size: 30px;
+    float: right; 
+}
+.accordion .card-header.collapsed:after {
+    /* symbol for "collapsed" panels */
+    content: "\f106"; 
+    font-size: 30px;
+}
+.card{
+        border: 1px solid #edf5f7;
+}
+.card-header{
+        border-bottom: 1px solid #edf5f7;
+}
+.card-title{
+            font-family: 'Cormorant', sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+}
+.accordion>.card .card-header{
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.card-body{
+    padding: 0 20px 0px 20px !important;
+}
+.last_styled_sent{
+    color: #000;
+    padding: 0 40px 20px 40px; 
+    font-size: 18px;
+    text-align: center;
+    font-style: italic;
+}

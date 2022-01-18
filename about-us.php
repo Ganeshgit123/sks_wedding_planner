@@ -92,36 +92,25 @@
             <section class="ttm-row introduction-section clearfix">
                 <div class="container">
                     <div
-                        class="pt-45 pb-45 pl-30 pr-30 res-991-pl-15 res-991-pr-15 tes-991-pb-0 res-991-ml-15 res-991-mr-15 box-shadow">
+                        class="pt-45 pb-15 pl-30 pr-30 res-991-pl-15 res-991-pr-15 tes-991-pb-0 res-991-ml-15 res-991-mr-15 box-shadow">
                         <div class="row align-items-center">
                             <div class="col-lg-6 col-sm-12">
                                 <!--section title-->
                                 <div class="section-title clearfix">
                                     <div class="title-header">
-                                        <h5>Welcome To Our SKS Wedding Planner</h5>
-                                        <h2 class="title">We Are Sharing Everything With You Forever</h2>
+                                        <h5>Welcome To Our SKS Wedding & Event Planner</h5>
+                                        <h2 class="title">Let us make your dream occasion into reality</h2>
                                     </div>
                                     <div class="title-desc">
-                                        <p>If you're looking for the best Wedding Planners in Chennai, you've come to
-                                            the right place. We are a one-stop shop for all of your wedding
-                                            requirements. In today's fast-paced world, planning and organizing a wedding
-                                            has become a time-consuming and difficult task. Don't worry, we're here to
-                                            assist you. From a small wedding to a huge weeklong event, we manage every
-                                            detail and create spectacular weddings.</p>
-                                        <p>Sri Kalyana Sundreswarar Wedding Planner in Chennai takes great pride in
-                                            ensuring that the most important day of your life, your wedding day, is as
-                                            perfect as possible. We ensure that you enjoy every second of your wedding
-                                            day by taking full responsibility for the planning and execution of your
-                                            event. You can rely on us to provide assistance on the day of your wedding
-                                            or to plan and execute the entire event!</p>
-                                        <p>Weddings are not only a significant event in a family's life, but they are
-                                            also a costly affair. It's tough to manage everything on your own with so
-                                            many routines to follow and so many arrangements to make. Everything takes
-                                            time, patience, and competence, from buying gowns to jewellery to arranging
-                                            catering to planning the decoration theme. It is commonly acknowledged that
-                                            not everyone has the luxury of taking care of everything. Are you planning a
-                                            family wedding in Chennai? Simply contact us to discover how we can assist
-                                            you.</p>
+                                        <p>We Uphold the Following Values</p>
+                                        <ul>
+                                            <li>Fascination</li>
+                                            <li>Individuality</li>
+                                            <li>Fixed Timeline</li>
+                                            <li>Dedication</li>
+                                            <li>Enthusiasm</li>
+                                            <li>Eminences</li>
+                                        </ul>
                                     </div>
                                 </div>
                                 <!--section title end-->
@@ -129,8 +118,15 @@
                             <div class="col-lg-6 col-sm-12">
                                 <!-- ttm_single_image-wrapper -->
                                 <div class="ttm_single_image-wrapper text-right ">
-                                    <img class="img-fluid" src="images/single-img-06.jpg" alt="">
+                                    <img class="img-fluid" src="images/services/wed_img.jpg" alt="">
                                 </div>
+                            </div>
+                            <div class="col-md-12">
+                                <br>
+                                <p>SKS Wedding and Event Planner is a wedding and event planning company situated in Chennai, Tamilnadu, whose main purpose is to create the most unique events ever seen. Our expertise is in paying close attention to the smallest details to generate high-quality events while staying within budget constraints. Throughout Tamilnadu and South India, we plan weddings and other events such as corporate, social parties, political management, birthday celebrations, product launches, and inaugurations. To make your event more unforgettable, we have highly qualified employees and providers. </p>
+                                <p style="font-style: italic;font-weight: 600;">"Any Budget Event -  Any Blockbuster Event = We Make the Special Moment and Dream Occasion Come True," has been our motto since the beginning.</p>
+                                <p>We believe in delivering personalised service and on-the-ground support for events at every level, so you can be assured that we will treat your wedding as if it were our own, allowing you to relax and enjoy the festivities with your loved ones. SKS Wedding and Event Planning were founded in January of 2007. Due to this development of technology, we are also upgrading our company through a digital medium. To date, we have successfully served about 500+ clients in both the B2B and B2C segments. In the B2B and B2C segments, the company serves approximately 60+ clients per year.</p>
+                                <p>We have a strong network of vendors in all of India's main cities, giving you an advantage when arranging your wedding with us. We intend to make your dream event memorable not only for you but also for your guests under our supervision, which includes invitation printing, venue selection, cuisine, photography, gifts for your cherished guests, and amazing wedding themes. We do whatever it takes to make your BIG DAY personalised and a reflection of your taste, whether it's a little or large wedding or any other event such as Corporates, Seminars, Product Launches, Inauguration Ceremonies, and so on. "High Quality in Work, Affordable Price, Genuine and Transparency in Relationships" is our company's motto.</p>
                             </div>
                         </div><!-- row end -->
                     </div>
@@ -138,75 +134,113 @@
             </section>
             <!--introduction-section end-->
 
-
-            <!-- topzero-padding-section -->
-            <section class="ttm-row zero-padding-section bg-layer-equal-height clearfix">
+  <!--OurGoals-section-->
+            <section class="ttm-row clearfix">
                 <div class="container">
-                    <div class="row no-gutters">
-                        <div class="col-lg-6">
-                            <!--col-bg-img-six-->
-                            <div class="col-bg-img-six ttm-bg ttm-col-bgimage-yes ttm-left-span">
-                                <div class="ttm-col-wrapper-bg-layer ttm-bg-layer">
-                                    <div class="ttm-bg-layer-inner"></div>
-                                </div>
-                            </div>
-                            <!--Responsive View image-->
-                            <img src="images/bg-image/col-bgimage-6.jpg" class="ttm-equal-height-image"
-                                alt="col-bgimage-6">
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="box-shadow ttm-bgcolor-white z-index-1 position-relative spacing-6">
+                    <!--row-->
+                    <div class="row">
+                        <div class="col-lg-6 col-sm-12">
+                            <div class="pl-30 res-991-pt-40 res-991-pl-0">
                                 <!--section title-->
                                 <div class="section-title">
                                     <div class="title-header">
-                                        <h2 class="title">The Most Creatives Agency</h2>
+                                        <h2 class="title">Our Goals</h2>
                                     </div>
                                     <div class="title-desc">
-                                        <p>At SKS Wedding Planner, we plan every wedding with complete involvement a
-                                            heart and soul. for any event we handle</p>
-                                        <p>We understand that planning a destination wedding requires expert assistance
-                                            and organization. whether you are planning an intimate gathering, big fat
-                                            Indian wedding or any casual events for your wedding related.</p>
+                                        <p>To be a client-centric, innovative event management firm that provides dependable and trustworthy services to consumers regardless of budget, location, or time constraints. The company's main focus is on timely delivery of guaranteed services, not as an event company, but as a family member who chooses to take on as much pain and responsibility as a family member.</p>
                                     </div>
-                                </div>
-                                <!--section title end-->
-                                <div class="pt-40">
-                                    <!--ttm-progress-bar-->
-                                    <div class="ttm-progress-bar" data-percent="85%">
-                                        <div class="progressbar-title">Decoration</div>
-                                        <div class="progress-bar-inner">
-                                            <div class="progress-bar progress-bar-color-bar_skincolor"></div>
-                                        </div>
-                                        <div class="progress-bar-percent" data-percentage="85">85%</div>
-                                    </div>
-                                    <!--ttm-progress-bar end-->
-                                    <!--ttm-progress-bar-->
-                                    <div class="ttm-progress-bar clearfix" data-percent="80%">
-                                        <div class="progressbar-title">Planing</div>
-                                        <div class="progress-bar-inner">
-                                            <div class="progress-bar progress-bar-color-bar_skincolor"></div>
-                                        </div>
-                                        <div class="progress-bar-percent" data-percentage="80">80%</div>
-                                    </div>
-                                    <!--ttm-progress-bar end-->
-                                    <!--ttm-progress-bar-->
-                                    <div class="ttm-progress-bar clearfix" data-percent="92%">
-                                        <div class="progressbar-title">Catering</div>
-                                        <div class="progress-bar-inner">
-                                            <div class="progress-bar progress-bar-color-bar_skincolor"></div>
-                                        </div>
-                                        <div class="progress-bar-percent" data-percentage="92">92%</div>
-                                    </div>
-                                    <!--ttm-progress-bar end-->
-                                </div>
+                                </div><!--section title end-->
                             </div>
                         </div>
-                    </div>
+                              <div class="col-lg-6 col-sm-12">
+                            <!--ttm_single_image-wrapper-->
+                            <div class="ttm_single_image-wrapper pt-15">
+                                <p class="text-center"><img class="img-fluid" src="images/services/target.svg" title="single-img-four" alt="single-img-four" width="180px"></p>
+                            </div><!--ttm_single_image-wrapper end-->
+                        </div>
+                    </div><!--row end-->
                 </div>
             </section>
-            <!-- topzero-padding-section -->
+            <!--OurGoals-section end-->
 
 
+<!--OurProcess-section-->
+            <section class="ttm-row clearfix">
+                <div class="container">
+                    <!--row-->
+                    <div class="row">
+                          <div class="col-lg-6 col-sm-12">
+                            <!--ttm_single_image-wrapper-->
+                            <div class="ttm_single_image-wrapper pt-45">
+                                <p class="text-center"><img class="img-fluid" src="images/services/process.svg" title="single-img-four" alt="single-img-four" width="200px"></p>
+                            </div><!--ttm_single_image-wrapper end-->
+                        </div>
+                        <div class="col-lg-6 col-sm-12">
+                            <div class="pl-30 res-991-pt-40 res-991-pl-0">
+                                <!--section title-->
+                                <div class="section-title">
+                                    <div class="title-header">
+                                        <h2 class="title">Our Planning Process</h2>
+                                    </div>
+                                    <div class="title-desc">
+                                        <p>With the finest precision and extensive documentation, we design, produce, evaluate, and create events for our clients.</p>
+                                        <ul>
+                                            <li>Initial Consultation and Discussion</li>
+                                            <li>Visits to the venue and discussions about the requirements</li>
+                                            <li>Estimation of the budget and the creation of a master plan</li>
+                                            <li>Master Plan Improvements and Discussion</li>
+                                            <li>Confirmation and Execution of the Services Discussed</li>
+                                        </ul>
+                                    </div>
+                                </div><!--section title end-->
+                            </div>
+                        </div>
+                    </div><!--row end-->
+                </div>
+            </section>
+            <!--OurProcess-section end-->
+
+            <!--WhySKS-section-->
+            <section class="ttm-row clearfix">
+                <div class="container">
+                    <!--row-->
+                    <div class="row">
+                        <div class="col-lg-6 col-sm-12">
+                            <div class="pl-30 res-991-pt-40 res-991-pl-0">
+                                <!--section title-->
+                                <div class="section-title">
+                                    <div class="title-header">
+                                        <h2 class="title">Why SKS Wedding and Event planner?</h2>
+                                    </div>
+                                    <div class="title-desc">
+                                        <p>Learn about our most important features and how we work.</p>
+                                        <p>We've been the highly regarded title in terms of creating beautiful events for you, regardless of whether it's a large fat wedding, a standardised corporate occasion, Get together in social events, celebrating your big day full of work achievements- a retirement day, or celebrating joy and memories in a birthday party, We know how to make it ideal and perfect for you. Our work experience, quality, and originality let us plan engagingly and intriguingly.</p>
+                                        <p>Our experts and team have worked hard to create a strategy for your event that is tailored to your taste and budget. The highlights that we adhere to maintain the event's standard and integrity are listed below:</p>
+                                        <ul>
+                                            <li>Respected and reputable Event management as a one-stop-shop</li>
+                                            <li>Structured Working Methodology</li>
+                                            <li>On-time delivery with a dependable crew</li>
+                                            <li>Concentrate on newer notions, ideas, and concepts.</li>
+                                            <li>A strong network allows you to offer a wide range of specialities from other cities.</li>
+                                            <li>Supervision of Individuals</li>
+                                            <li>Effortless Events</li>
+                                            <li>100% on-time delivery of scheduled services</li>
+                                            <li>Well Trained planning management</li>
+                                        </ul>
+                                    </div>
+                                </div><!--section title end-->
+                            </div>
+                        </div>
+                          <div class="col-lg-6 col-sm-12">
+                            <!--ttm_single_image-wrapper-->
+                            <div class="ttm_single_image-wrapper pt-15">
+                                <p class="text-center"><img class="img-fluid" src="images/services/process.svg" title="single-img-four" alt="single-img-four" width="200px"></p>
+                            </div><!--ttm_single_image-wrapper end-->
+                        </div>
+                    </div><!--row end-->
+                </div>
+            </section>
+            <!--WhySKS-section end-->
 
         </div><!-- site-main end -->
         <?php include 'footer.php';?>

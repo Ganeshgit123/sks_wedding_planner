@@ -629,14 +629,14 @@
 }
 
 @media (min-width: 992px) {
-  .sidebar .sidebar-right, .sidebar .sidebar-left {
+  /* .sidebar .sidebar-right, .sidebar .sidebar-left {
       flex: 28.914%;
       max-width: 28.914%;
   }
   .sidebar .content-area {
       flex: 70.50%;
       max-width: 70.50%;
-  }
+  } */
   .sidebar .content-area, .sidebar .widget-area {
       padding-top: 80px;
       padding-bottom: 80px;
