@@ -112,7 +112,7 @@
                         <a
                             id="slider-3-slide-7-layer-4" 
                             class="rs-layer"
-                            href="contact-us.html" target="_self" rel="nofollow"
+                            href="contact-us.php" target="_self" rel="nofollow"
                             data-type="text"
                             data-rsp_ch="on"
                             data-xy="x:c;y:m;yo:195px,195px,122px,70px;"
@@ -160,7 +160,7 @@
                             data-frame_1="e:back.out;st:150;sp:500;sR:150;"
                             data-frame_999="o:0;st:w;sR:8350;"
                             style="z-index:9;font-family:Cormorant;"
-                        >Wedding Planning Services 
+                        >Wedding & Event Planner
                         </rs-layer>
 
                         <rs-layer
@@ -196,7 +196,7 @@
                         <a
                             id="slider-3-slide-6-layer-4" 
                             class="rs-layer"
-                            href="services-1.html" target="_self" rel="nofollow"
+                            href="about.php" target="_self" rel="nofollow"
                             data-type="text"
                             data-rsp_ch="on"
                             data-xy="x:0;x:c;y:m;yo:195px,195px,112px,70px;"
@@ -252,7 +252,7 @@
                                 <!--section title-->
                                 <div class="section-title">
                                     <div class="title-header">
-                                        <h5>Welcome To Our SKS Wedding Planner</h5>
+                                        <h5>Welcome To Our SKS Wedding & Event Planner</h5>
                                     </div>
                                     <div class="title-desc">
                                         <p>If you're looking for the best Wedding Planners in Chennai, you've come to the right place. We are a one-stop shop for all of your wedding requirements. In today's fast-paced world, planning and organizing a wedding has become a time-consuming and difficult task. Don't worry, we're here to assist you. From a small wedding to a huge weeklong event, we manage every detail and create spectacular weddings.</p>
@@ -466,7 +466,7 @@
                                 </div>
                                 <div class="pt-20 pb-20 pl-50 pr-50 box-shadow d-flex align-items-center justify-content-between">
                                     <h5 class="mb-0">Do You Need Our Help ?</h5>
-                                    <a class="ttm-btn ttm-btn-size-xs ttm-btn-shape-squar ttm-btn-style-fill ttm-btn-color-skincolor" href="#"><i class="ti ti-angle-right"></i></a>
+                                    <a class="ttm-btn ttm-btn-size-xs ttm-btn-shape-squar ttm-btn-style-fill ttm-btn-color-skincolor" href="contact-us.php"><i class="ti ti-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -493,34 +493,32 @@
                                 </div>
                                 <div class="featured-content">
                                     <div class="featured-desc">
-                                        <p>SKS Wedding Planner</p>
+                                        <p>SKS Wedding & Event Planner</p>
                                     </div>
                                     <div class="featured-title">
                                         <h5>We Plan Every Detail Of Your Wedding!</h5>
                                     </div>
                                 </div>
                             </div><!--featured-icon-box end-->
-                            <div class="row pt-15">
+                            <!-- <div class="row pt-15">
                                 <div class="col-sm-6 offset-md-1 col-md-5 col-lg-3 offset-lg-3">
-                                    <!--featured-icon-box--> 
                                     <div class="featured-icon-box icon-align-before-content style3">
                                         <div class="featured-icon">
                                             <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-style-rounded ttm-icon_element-size-sm">
-                                                <i class="fa fa-whatsapp"></i>
+                                                <i class="fa fa-phone"></i>
                                             </div>
                                         </div>
                                         <div class="featured-content">
                                             <div class="featured-title">
-                                                <h5>What’s App Chat</h5>
+                                                <h5>Call</h5>
                                             </div>
                                             <div class="featured-desc text-left">
                                                 <p>(+01) 123 456 7890</p>
                                             </div>
                                         </div>
-                                    </div><!--featured-icon-box end-->
+                                    </div>
                                 </div>
                                 <div class="col-sm-6 col-md-5 col-lg-3">
-                                    <!--featured-icon-box--> 
                                     <div class="featured-icon-box icon-align-before-content style3">
                                         <div class="featured-icon"> 
                                             <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-style-rounded ttm-icon_element-size-sm">
@@ -535,9 +533,9 @@
                                                 <p class="">@themetechmount</p>
                                             </div>
                                         </div>
-                                    </div><!--featured-icon-box end-->
+                                    </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div><!--row end-->
                 </div>

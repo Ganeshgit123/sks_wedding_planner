@@ -55,21 +55,20 @@
                             <div class="widget widget_nav_menu clearfix">
                                 <h3 class="widget-title">Our Services</h3>
                                 <ul class="menu-footer-services">
-                                    <li><a href="services.php">Wedding Location</a></li>
-                                    <li><a href="catering-service.php">Catering</a></li>
-                                    <li><a href="decoration-service.php">Decoration</a></li>
-                                    <li><a href="photography.php">Photography</a></li>
-                                    <li><a href="bridal-beautician-service.php">Bridal Beautician Service</a></li>
-                                    <li><a href="entertainment.php">Entertainment</a></li>
+                                    <li><a href="wedding_organizing.php">Wedding organizing</a></li>
+                                    <li><a href="birthday-party.php">Birthday Party organizing</a></li>
+                                    <li><a href="corporate-events.php">Corporate/ Business event organizing</a></li>
+                                    <li><a href="baby-shower-event.php">Baby shower & Naming ceremony organizing</a></li>
+                                    <li><a href="other-party.php">Other Parties organizing</a></li>
                                 </ul>
                             </div>
                         </div>
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 widget-area">
         <div class="widget flicker_widget clearfix">
            <h3 class="widget-title">Our Address</h3>
-           <p>Evanto HQ 24 Fifth st., Los Angeles, USA</p>
-           <p>+1234 567 8910 or +1234 567 8911</p>
-           <p>example@yourdomain.com</p>
+           <p>No 738, First floor, 10th East Street,<br> Metha Nagar, Kundrathur, <br>Chennai 600069</p>
+           <p>90431 55994 / 6382406664</p>
+           <p>sksweddingplanner@gmail.com</p>
         </div>
     </div>
 </div>

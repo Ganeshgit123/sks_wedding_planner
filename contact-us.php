@@ -70,7 +70,7 @@
                             </div>
                             <div class="breadcrumb-wrapper">
                                 <span>
-                                    <a title="Homepage" href="index.html">Home</a>
+                                    <a title="Homepage">Home</a>
                                 </span>
                                 <span class="ttm-bread-sep">&gt;</span>
                                 <span> Contact Us</span>
@@ -87,46 +87,8 @@
         <div class="site-main">
 
 
-            <section class="ttm-row pt-0 pb-0 res-991-pt-0 clearfix">
-                <div class="container"> 
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="mt_60 res-767-mt-30">
-                                <div class="row no-gutters">
-                                    <div class="col-lg-4 col-md-4 col-sm-12">
-                                        <div class="ttm-bgcolor-white p-35 pb-25 box-shadow">
-                                            <h5>Address One</h5>
-                                            <p>4578 Heverly Rd Crooklyn New York 12345 United States.</p>
-                                            <div class="ttm-horizontal_sep width-100 mb-20"></div>
-                                            <a class="ttm-btn-color-skincolor" href="#">View On Google Map</a>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4 col-md-4 col-sm-12">
-                                        <div class="ttm-bgcolor-skincolor p-35 pb-25 box-shadow">
-                                            <h5>Address Two</h5>
-                                            <p>4578 Heverly Rd Crooklyn New York 12345 United States.</p>
-                                            <div class="ttm-horizontal_sep width-100 mb-20"></div>
-                                            <a class="ttm-btn-color-white" href="#">View On Google Map</a>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4 col-md-4 col-sm-12">
-                                        <div class="ttm-bgcolor-white p-35 pb-25 box-shadow">
-                                            <h5>Email & Office Hours</h5>
-                                            <p>Mon – Sat: 9.00am to 7.00pm<br>Sunday: Closed</p>
-                                            <div class="ttm-horizontal_sep width-100 mb-20"></div>
-                                            <a class="ttm-btn-color-skincolor" href="#">wedco@wedding.com</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>               
-                </div>
-            </section>
-
-
             <!---contact-us-section-->
-            <section class="ttm-row contact-us-section bg-layer-equal-height clearfix">
+            <section class="ttm-row contact-us-section bg-layer-equal-height clearfix" style="padding: 60px 0;">
                 <div class="container">
                     <!--row-->
                     <div class="row">
@@ -139,11 +101,9 @@
                                             <!-- section title -->
                                             <div class="section-title without-seperator">
                                                 <div class="title-header">
-                                                    <h5>Wedding Attend</h5>
-                                                    <h2 class="title">It’s Your Turn</h2>
+                                                    <h2 class="title">We Provide The Best <br>Services</h2>
                                                 </div>
                                             </div><!-- section title end -->
-                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                                             <!-- featured-icon-box -->
                                             <div class="featured-icon-box icon-align-before-content icon-ver_align-top style8">
                                                 <div class="featured-icon">
@@ -156,7 +116,7 @@
                                                         <h5>Location</h5>
                                                     </div>
                                                     <div class="featured-desc">
-                                                        <p>4578 Beverly Rd<br>Brooklyn NewYork</p>
+                                                        <p>No 738, First floor, 10th East Street,<br> Metha Nagar, Kundrathur, Chennai 69</p>
                                                     </div>
                                                 </div>
                                             </div><!-- featured-icon-box end -->
@@ -172,7 +132,7 @@
                                                         <h5>Call Or Email</h5>
                                                     </div>
                                                     <div class="featured-desc">
-                                                        <p>+ (123) 456 7890<br>info@wedding.com</p>
+                                                        <p>90431 55994 / 6382406664<br>sksweddingplanner@gmail.com</p>
                                                     </div>
                                                 </div>
                                             </div><!-- featured-icon-box end -->
@@ -185,10 +145,10 @@
                                                 </div>
                                                 <div class="featured-content">
                                                     <div class="featured-title">
-                                                        <h5>Office Hours</h5>
+                                                        <h5>Contact Person</h5>
                                                     </div>
                                                     <div class="featured-desc">
-                                                        <p>Mon – Sat: 9.00am to 7.00pm<br>Sunday: Closed</p>
+                                                        <p>Mr. Srinivasa Raghavan</p>
                                                     </div>
                                                 </div>
                                             </div><!-- featured-icon-box end -->
@@ -244,7 +204,7 @@
             <!--google_map-->
             <div id="google_map" class="google_map">
                 <div class="map_container">
-                    <div id="map"></div>
+                   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.700571491162!2d80.10721081514437!3d12.990993417966589!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526190023f27e1%3A0x40bee288cb903bf8!2s10TH%20EAST%20STREET%2C%20METHA%20NAGAR%2C%20Metro%20Star%20City%2C%20Andan%20Kuppam%2C%20Kundrathur%2C%20Chennai%2C%20Tamil%20Nadu%20600069!5e0!3m2!1sen!2sin!4v1638594629232!5m2!1sen!2sin" style="width:100%; height: 300px; border:0" allowfullscreen loading="lazy"></iframe>
                 </div>
             </div><!--google_map end-->
 

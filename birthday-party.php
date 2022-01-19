@@ -294,52 +294,126 @@
                                 </div>
                                 <div id="collapseNine" class="card-body collapse" data-parent="#accordion">
                                     <div class="row">
-                                        <div class="col-md-6">
+                                        <div class="col-md-12">
                                             <p>SKS wedding planners have a variety of entertainment alternatives that
                                                 will make your birthday party a memorable event for your guests. We
                                                 assist you in providing exciting birthday entertainment like magic
                                                 shows, games, live music, and dance for your guests, allowing them to
                                                 become a vital part of your celebrations.</p>
-                                            <p>We have been a prominent birthday party decorator in Chennai, providing
-                                                customers. Our Decorators, as the name suggests, is one of the main
-                                                decoration management companies in Chennai. We are glad to state that we
-                                                have mastered it. SKS wedding planners have long been a love of ours. We
-                                                enjoy what we do and plan to continue doing it for many years to come.
-                                                We aim to be known for our impeccable production work and creative
-                                                flair.</p>
-                                            <p>Birthday parties, without a doubt, are occasions when we all let our hair
-                                                down and have a good time. Most importantly, your birthday party
-                                                celebration should be as one-of-a-kind as you are, and we understand
-                                                that better than anyone. Most significantly, Our Decorators specialises
-                                                in meeting all of your indoor and outdoor birthday party décor demands.
-                                                We don't just throw a birthday celebration for you; we throw your party
-                                                - We will decorate exactly what you want for your party, whether it is a
-                                                kids birthday party or an adult birthday party. If necessary, we may
-                                                also guide birthday party ideas.</p>
                                         </div>
+                                    </div>
+                                </div>
+
+                                <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion"
+                                    href="#collapseTen">
+                                    <a class="card-title">Different Shows</a>
+                                </div>
+                                <div id="collapseTen" class="card-body collapse" data-parent="#accordion">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <p>Dance is an art form that gives joy and life into one's life. Professional dancers who are well-trained and skilled in all types of dances are available. Flash mobs are a new addition to dance that has exploded in popularity in a short period of time.</p>
+                                            <p>If you're having a party or a Sangeeth, a dance floor is a necessary if you're having a DJ and music. We ensure that your dance floor is welcoming, safe, and elegant.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                 <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion"
+                                    href="#collapseEleven">
+                                    <a class="card-title">Photo prints in a flash</a>
+                                </div>
+                                <div id="collapseEleven" class="card-body collapse" data-parent="#accordion">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <p>Traditional print images have become a specialty as a result of digital photography. We have photo booths where guests may take images and have them printed right away.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                 <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion"
+                                    href="#collapseTwelve">
+                                    <a class="card-title">Magician</a>
+                                </div>
+                                <div id="collapseTwelve" class="card-body collapse" data-parent="#accordion">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <p>No matter how old we get, magic acts keep us enthralled. Magic performances and magicians pulling rabbits from hats are often a hit at children's birthday parties. We bring in well-known magicians and professionals who can dazzle even the most jaded of audiences.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion"
+                                    href="#collapseThirteen">
+                                    <a class="card-title">Tattoos in a Flash</a>
+                                </div>
+                                <div id="collapseThirteen" class="card-body collapse" data-parent="#accordion">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <p>Tattoos are popular among children and teenagers because they are colourful and attractive. Tattoo artists are sent in to create stunning designs and pictures on your skin.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion"
+                                    href="#collapseFourteen">
+                                    <a class="card-title">Nail design</a>
+                                </div>
+                                <div id="collapseFourteen" class="card-body collapse" data-parent="#accordion">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <p>Nail polishes are a girl's addiction. Nail art is something that every female obsesses about. To make our princesses happy, we add this function to our entertainment aspect.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion"
+                                    href="#collapseFifteen">
+                                    <a class="card-title">Face painting</a>
+                                </div>
+                                <div id="collapseFifteen" class="card-body collapse" data-parent="#accordion">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <p>Face art is defined as the application of colourful images and arts to your face in order to make you appear more intriguing. If you're not ready to get your face painted, you can try your hand at painting the faces of others.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion"
+                                    href="#collapseSixteen">
+                                    <a class="card-title">Caricature</a>
+                                </div>
+                                <div id="collapseSixteen" class="card-body collapse" data-parent="#accordion">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <p>Photographs are unique, but caricatures are very personal to us and have a special place in our hearts. We have professional caricaturists on staff who can draw your caricature in a matter of minutes.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion"
+                                    href="#collapseSeventeen">
+                                    <a class="card-title">Sculpture with balloons</a>
+                                </div>
+                                <div id="collapseSeventeen" class="card-body collapse" data-parent="#accordion">
+                                    <div class="row">
                                         <div class="col-md-6">
+                                            <p>The addition of large balloon structures to your location will make it more appealing and vibrant. Nowadays, a balloon structure is required to give your event a big appearance.</p>
+                                            <p>We have been a prominent birthday party decorator in Chennai, providing customers. Our Decorators, as the name suggests, is one of the main decoration management companies in Chennai. We are glad to state that we have mastered it. SKS wedding planners have long been a love of ours. We enjoy what we do and plan to continue doing it for many years to come. We aim to be known for our impeccable production work and creative flair.</p>
+                                            <p>Birthday parties, without a doubt, are occasions when we all let our hair down and have a good time. Most importantly, your birthday party celebration should be as one-of-a-kind as you are, and we understand that better than anyone. Most significantly, Our Decorators specialises in meeting all of your indoor and outdoor birthday party décor demands. We don't just throw a birthday celebration for you; we throw your party - We will decorate exactly what you want foryour party, whether it is a kids birthday party or an adult birthday party. If necessary, we may also guide birthday party ideas.</p>
+                                        </div>
+                                         <div class="col-md-6">
                                             <div class="ttm-featured-wrapper mt-20 res-991-mb-40">
                                                 <img class="img-fluid" src="images/services/birthday_entertainment.jpg"
                                                     alt="">
                                             </div>
                                         </div>
                                         <div class="col-md-12">
-                                            <p>Above all, whether it's a half-birthday, first-birthday, kids', teen's,
-                                                or adult's birthday party, we're experts in many types of theme décor to
-                                                fit the occasion. The members of the team are specifically trained to
-                                                combine originality at every stage of the event and may make it the talk
-                                                of the town. </p>
-                                            <p>Every party is thoroughly planned by the SKS wedding planner to ensure
-                                                that it is a success. We are pleased to provide you with a personalized
-                                                plan for your birthday party celebration based on your needs, budget,
-                                                and other requirements.</p>
-                                            <p>Meanwhile, please don't hesitate to contact us if you have any questions
-                                                regarding who we are or what we do. Finally, we are available 7 days a
-                                                week for any questions or suggestions you may have, and we would be
-                                                delighted to help you with your SKS wedding planner.</p>
-                                        </div>
+                                            <p>Above all, whether it's a half-birthday, first-birthday, kids', teen's, or adult's birthday party, we're experts in many types of theme décor to fit the occasion. The members of the team are specifically trained to combine originality at every stage of the event and may make it the talk of the town.</p>
+                                            <p>Every party is thoroughly planned by the SKS wedding planner to ensure that it is a success. We are pleased to provide you with a personalized plan for your birthday party celebration based on your needs, budget, and other requirements.</p>
+                                            <p>Meanwhile, please don't hesitate to contact us if you have any questions regarding who we are or what we do. Finally, we are available 7 days a week for any questions or suggestions you may have, and we would be delighted to help you with your SKS wedding planner.</p>
                                     </div>
                                 </div>
+
                             </div>
                         </div>
 </div>
