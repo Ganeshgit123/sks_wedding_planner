@@ -115,7 +115,7 @@
                                         </div>
                                         <div class="col-md-6">
                                             <div class="ttm-featured-wrapper mt-20 res-991-mb-40">
-                                                <img class="img-fluid" src="images/services/wedding-planner.jpg" alt="">
+                                                <img class="img-fluid" src="images/services/birthday_party.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-md-12">
@@ -232,7 +232,7 @@
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="ttm-featured-wrapper mt-20 res-991-mb-40">
-                                                <img class="img-fluid" src="images/services/wedding_venues.jpg" alt="">
+                                                <img class="img-fluid" src="images/services/birthday_photography.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-md-6">
@@ -319,7 +319,7 @@
                                         </div>
                                         <div class="col-md-6">
                                             <div class="ttm-featured-wrapper mt-20 res-991-mb-40">
-                                                <img class="img-fluid" src="images/services/bridal_beautician.jpg"
+                                                <img class="img-fluid" src="images/services/birthday_entertainment.jpg"
                                                     alt="">
                                             </div>
                                         </div>

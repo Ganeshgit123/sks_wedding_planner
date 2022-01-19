@@ -102,7 +102,7 @@
                                         </div>
                                         <div class="col-md-6">
                                             <div class="ttm-featured-wrapper mt-20 res-991-mb-40">
-                                                <img class="img-fluid" src="images/services/wedding-planner.jpg" alt="">
+                                                <img class="img-fluid" src="images/services/corporte_events.jpg" alt="">
                                             </div>
                                         </div>
                                     </div>
@@ -162,12 +162,7 @@
                                 </div>
                                 <div id="collapseSix" class="card-body collapse" data-parent="#accordion">
                                     <div class="row">
-                                        <div class="col-md-6">
-                                            <div class="ttm-featured-wrapper mt-20 res-991-mb-40">
-                                                <img class="img-fluid" src="images/services/wedding_venues.jpg" alt="">
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
+                                        <div class="col-md-12">
                                             <p>Today's events are heavily reliant on technology. Experiential Technology is blended and integrated in just the right way for you.</p>
                                         </div>
                                     </div>
