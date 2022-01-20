@@ -20,11 +20,11 @@
                             <nav class="main-menu menu-mobile ml-auto" id="menu">
                                 <ul class="menu">
                                     <li class="<?php if($page=='home'){echo 'mega-menu-item active';}?>">
-                                        <a href="index.php" class="mega-menu-link">Home</a>
+                                        <a href="index.php">Home</a>
                                     </li>
                                     <li class="<?php if($page=='about'){echo 'active';}?>"><a href="about-us.php">About Us</a></li>
                                       <li class="mega-menu-item">
-                                        <a href="#" class="<?php if($page=='services'){echo 'mega-menu-link active';}?>">Services</a>
+                                        <a href="#" class="mega-menu-link">Services</a>
                                         <ul class="mega-submenu">
                                             <li><a href="wedding_organizing.php">Wedding organizing</a></li>
                                             <li><a href="birthday-party.php">Birthday Party organizing </a></li>
@@ -33,7 +33,7 @@
                                             <li><a href="other-party.php">Other Parties organizing</a></li>
                                         </ul>
                                     </li>
-                                   <!--  <li class="mega-menu-item">
+                               <!--      <li class="mega-menu-item">
                                         <a href="#" class="mega-menu-link">Pages</a>
                                         <ul class="mega-submenu">
                                             <li><a href="about-us.html">About Us 1</a></li>
