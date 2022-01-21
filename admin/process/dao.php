@@ -1,7 +1,7 @@
 <?php
 // error_reporting(0);
 
-$root_dir = "/home/u201-ha2zv0prnbpt/www/liastaging.com/public_html/sks/admin/";
+$root_dir = "/opt/lampp/htdocs/sks/admin/";
 
 error_reporting(E_ALL & ~E_NOTICE);
 

@@ -1,10 +1,7 @@
 <?php
 session_start();
 error_reporting(0);
-// if ($_SESSION["user"] !="")
-if ($_SESSION["user"] !="") {
-    header('location:dashboard.php');
-} 
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -17,7 +14,7 @@ if ($_SESSION["user"] !="") {
 
 <link rel="icon" href="assets/images/favicon.ico">
 
-<title>VTL - Login</title>
+<title>SKS - Login</title>
 <link rel="stylesheet" href="assets/styles/style.min.css">
 <link rel="stylesheet" href="assets/fonts/fontello/fontello.css">
 <!-- Waves Effect -->
@@ -30,8 +27,8 @@ if ($_SESSION["user"] !="") {
 <div id="single-wrapper">
 <form action="#" id="form1" class="frm-single">
 <div class="inside">
-	<p class="text-center"><img src="assets/images/logo.svg" alt=""></p>
-<div class="title"><strong>VASANTHAM TRAANS & LOGISTIICX </strong></div>
+	<p class="text-center"><img src="assets/images/logo-img.png" alt="" width="180px"></p>
+<div class="title"><strong>SKS Wedding & Event Planner </strong></div>
 <!-- /.title -->
 <div class="frm-title">Login</div>
 <!-- /.frm-title -->
@@ -45,8 +42,8 @@ if ($_SESSION["user"] !="") {
 
 
 <!-- /.row -->
-<a href="#" class="a-link"><i class="fa fa-key"></i>VTL</a>
-<div class="frm-footer">VTL © 2020</div>
+<a href="#" class="a-link"><i class="fa fa-key"></i>SKS</a>
+<div class="frm-footer">SKS © <?php echo date("Y"); ?></div>
 <!-- /.footer -->
 </div>
 <!-- .inside -->
