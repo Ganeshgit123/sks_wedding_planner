@@ -244,7 +244,7 @@
                         <div class="col-lg-6 col-sm-12">
                             <!--ttm_single_image-wrapper-->
                             <div class="ttm_single_image-wrapper">
-                                <img class="img-fluid" src="images/single-img-04.jpg" title="single-img-four" alt="single-img-four">
+                                <img class="img-fluid" src="images/creative_agency.jpg" title="single-img-four" alt="single-img-four">
                             </div><!--ttm_single_image-wrapper end-->
                         </div>
                         <div class="col-lg-6 col-sm-12">
@@ -462,7 +462,7 @@
                             <div class="d-inline-block ml-50 res-991-ml-0">
                                 <!--ttm_single_image-wrapper-->
                                 <div class="ttm_single_image-wrapper res-991-pt-40">
-                                    <img class="img-fluid" src="images/single-img-05.jpg" alt="single_05">
+                                    <img class="img-fluid" src="images/our_wedding_service.jpg" alt="single_05">
                                 </div>
                                 <div class="pt-20 pb-20 pl-50 pr-50 box-shadow d-flex align-items-center justify-content-between">
                                     <h5 class="mb-0">Do You Need Our Help ?</h5>
