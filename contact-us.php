@@ -10,7 +10,7 @@
 <title>SKS Wedding Planner</title>
 
 <!-- favicon icon -->
-<link rel="shortcut icon" href="images/favicon.ico" />
+<link rel="shortcut icon" href="images/favicon.png" />
 
 <!-- bootstrap -->
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>

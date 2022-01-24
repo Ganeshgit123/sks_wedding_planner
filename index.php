@@ -10,7 +10,7 @@
 <title>SKS Wedding Planner</title>
 
 <!-- favicon icon -->
-<link rel="shortcut icon" href="images/favicon.ico" />
+<link rel="shortcut icon" href="images/favicon.png" />
 
 <!-- bootstrap -->
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
@@ -61,9 +61,9 @@
             <rs-module id="rev_slider_4_1" data-version="6.1.2" class="rev_slider_4_1_height">
                 <rs-slides>
 
-                    <rs-slide data-key="rs-7" data-title="Slide" data-thumb="images/slides/slider-mainbg-06.jpg" data-anim="ei:d;eo:d;s:d;r:0;t:slotzoom-horizontal;sl:d;">
+                    <rs-slide data-key="rs-7" data-title="Slide" data-thumb="images/slides/new_banner_1.jpg" data-anim="ei:d;eo:d;s:d;r:0;t:slotzoom-horizontal;sl:d;">
 
-                        <img src="images/slides/slider-mainbg-06.jpg" title="slider-main-img05" width="1920" height="845" class="rev-slidebg" data-no-retina>
+                        <img src="images/slides/new_banner_1.jpg" title="slider-main-img05" width="1920" height="845" class="rev-slidebg" data-no-retina>
 
                         <rs-layer
                             id="slider-3-slide-7-layer-0" 
@@ -127,7 +127,7 @@
                         >Contact Us! 
                         </a>
 
-                        <rs-layer
+                      <!--   <rs-layer
                             id="slider-3-slide-7-layer-5" 
                             data-type="text"
                             data-color="#dedede"
@@ -141,13 +141,13 @@
                             data-frame_999="o:0;st:w;sR:8150;"
                             style="z-index:8;font-family:Dancing Script;"
                         >Planning 
-                        </rs-layer>
+                        </rs-layer> -->
 
                     </rs-slide>
 
-                    <rs-slide data-key="rs-6" data-title="Slide" data-thumb="images/slides/slider-mainbg-07.jpg" data-anim="ei:d;eo:d;s:d;r:0;t:slotzoom-horizontal;sl:d;">
+                    <rs-slide data-key="rs-6" data-title="Slide" data-thumb="images/slides/new_banner_2.jpg" data-anim="ei:d;eo:d;s:d;r:0;t:slotzoom-horizontal;sl:d;">
 
-                        <img src="images/slides/slider-mainbg-07.jpg" title="slider-main-img06" width="1920" height="845" class="rev-slidebg" data-no-retina>
+                        <img src="images/slides/new_banner_2.jpg" title="slider-main-img06" width="1920" height="845" class="rev-slidebg" data-no-retina>
 
                         <rs-layer
                             id="slider-3-slide-6-layer-0" 

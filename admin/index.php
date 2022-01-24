@@ -16,7 +16,6 @@ error_reporting(0);
 
 <title>SKS - Login</title>
 <link rel="stylesheet" href="assets/styles/style.min.css">
-<link rel="stylesheet" href="assets/fonts/fontello/fontello.css">
 <!-- Waves Effect -->
 <link rel="stylesheet" href="assets/plugin/waves/waves.min.css">
 

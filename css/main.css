@@ -2492,3 +2492,29 @@ section.error-404 .page-content p { font-size: 18px; margin-bottom: 30px; }
     text-align: center;
     font-style: italic;
 }
+/*Gallery Page Css*/
+.gal_container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  justify-items: center;
+  grid-gap: 0;
+}
+.gal_item {
+  width: 96%;
+  overflow: hidden;
+  background: #000;
+  margin-bottom:15px;
+}
+
+.gal_item img {
+    opacity: 0.6;
+  width: 100%;
+  height: 100%;
+  transform: scale(1.15);
+  transition: transform 0.5s, opacity 0.5s;
+}
+
+.gal_item img:hover {
+  opacity: 1;
+  transform: scale(1.03);
+}

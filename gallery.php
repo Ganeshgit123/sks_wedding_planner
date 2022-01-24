@@ -47,7 +47,8 @@
 
 <!-- REVOLUTION LAYERS STYLES -->
 <link rel='stylesheet' id='rs-plugin-settings-css' href="revolution/css/rs6.css"> 
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.css" /><link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.css'>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js'>
 </head>
 <body>
 
@@ -59,7 +60,7 @@
         <div class="ttm-page-title-row">
             <div class="ttm-page-title-row-inner ttm-bgcolor-darkgrey">
                 <div class="container">
-                    <div class="row align-items-center">
+                    <div class="row align-gal_items-center">
                         <div class="col-lg-12">
                             <div class="page-title-heading">
                                 <h2 class="title">Gallery</h2>
@@ -85,128 +86,19 @@
                 <!-- row -->
                 <div class="row mb_15">
                     <div class="col-lg-12">
-                        <div class="ttm-tabs ttm-tab-style-01">
-                           <!--  <ul class="tabs portfolio-filter">
-                                <li class="tab active"><a href="#" data-filter="*">All</a></li>
-                                <li class="tab"><a href="#" data-filter=".catering">Catering</a></li>
-                                <li class="tab"><a href="#" data-filter=".stories">Stories</a></li>
-                                <li class="tab"><a href="#" data-filter=".decorate">Decorate</a></li>
-                                <li class="tab"><a href="#" data-filter=".planning">Planning</a></li>
-                            </ul> -->
-                            <div class="content-tab">
-                                <!-- content-inner -->
-                                <div class="row isotope-project">
-                                    <div class="col-lg-4 col-md-4 col-sm-6 project_item catering">
-                                        <!--featured-imagebox-->
-                                        <div class="featured-imagebox featured-imagebox-portfolio style1">
-                                            <!--ttm-box-view-overlay-->
-                                            <div class="ttm-box-view-overlay">
-                                                <!-- featured-thumbnail -->
-                                                <div class="featured-thumbnail">
-                                                    <a href="#"><img class="img-fluid" src="images/portfolio/01.jpg" alt="image"></a>
-                                                </div><!-- featured-thumbnail end-->
-                                                <div class="featured-content">
-                                                    <div class="featured-title">
-                                                        <h5><a href="wedding-bells.html">Wedding Bells</a></h5>
-                                                    </div>
-                                                    <span class="category">Catering, Stories</span>
-                                                </div>
-                                            </div><!--ttm-box-view-overlay end-->
-                                        </div><!--featured-imagebox end-->
-                                    </div>
-                                    <div class="col-lg-4 col-md-4 col-sm-6 project_item stories">
-                                        <!--featured-imagebox-->
-                                        <div class="featured-imagebox featured-imagebox-portfolio style1">
-                                            <!--ttm-box-view-overlay-->
-                                            <div class="ttm-box-view-overlay">
-                                                <!-- featured-thumbnail -->
-                                                <div class="featured-thumbnail">
-                                                    <a href="#"> <img class="img-fluid" src="images/portfolio/02.jpg" alt="image"></a>
-                                                </div><!--featured-thumbnail end-->
-                                                <div class="featured-content">
-                                                    <div class="featured-title">
-                                                        <h5><a href="best-florists.html">Best Florists</a></h5>
-                                                    </div>
-                                                    <span class="category">Decorate, Planning</span>
-                                                </div>
-                                            </div><!--ttm-box-view-overlay end-->
-                                        </div><!-- featured-imagebox end-->
-                                    </div>
-                                    <div class="col-lg-4 col-md-4 col-sm-6 project_item decorate">
-                                        <!--featured-imagebox-->
-                                        <div class="featured-imagebox featured-imagebox-portfolio style1">
-                                            <!--ttm-box-view-overlay-->
-                                            <div class="ttm-box-view-overlay">
-                                                <!--featured-thumbnail-->
-                                                <div class="featured-thumbnail">
-                                                    <a href="#"> <img class="img-fluid" src="images/portfolio/03.jpg" alt="image"></a>
-                                                </div><!--featured-thumbnail end-->
-                                                <div class="featured-content">
-                                                    <div class="featured-title">
-                                                        <h5><a href="bride-groom.html">Bride & Groom</a></h5>
-                                                    </div>
-                                                    <span class="category">Catering</span>
-                                                </div>
-                                            </div><!--ttm-box-view-overlay end-->
-                                        </div><!--featured-imagebox end-->
-                                    </div>
-                                    <div class="col-lg-4 col-md-4 col-sm-6 project_item stories">
-                                        <!--featured-imagebox-->
-                                        <div class="featured-imagebox featured-imagebox-portfolio style1">
-                                            <!--ttm-box-view-overlay-->
-                                            <div class="ttm-box-view-overlay">
-                                                <!--featured-thumbnail-->
-                                                <div class="ttm-portfolio-format-video featured-thumbnail">
-                                                    <iframe width="1280" height="800" src="https://www.youtube.com/embed/7GWSl1GQSSc" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-                                                </div><!--featured-thumbnail end-->
-                                                <div class="featured-content">
-                                                    <div class="featured-title">
-                                                        <h5><a href="enganement.html">Engagement</a></h5>
-                                                    </div>
-                                                    <span class="category">Decorate, Stories</span>
-                                                </div>
-                                            </div><!--ttm-box-view-overlay end-->
-                                        </div><!--featured-imagebox end-->
-                                    </div>
-                                    <div class="col-lg-4 col-md-4 col-sm-6 project_item planning catering">
-                                        <!--featured-imagebox-->
-                                        <div class="featured-imagebox featured-imagebox-portfolio style1">
-                                            <!--ttm-box-view-overlay-->
-                                            <div class="ttm-box-view-overlay">
-                                                <!--featured-thumbnail-->
-                                                <div class="featured-thumbnail">
-                                                    <a href="#"> <img class="img-fluid" src="images/portfolio/05.jpg" alt="image"></a>
-                                                </div><!--featured-thumbnail end-->
-                                                <div class="featured-content">
-                                                    <div class="featured-title">
-                                                        <h5><a href="photo-memories.html">Photo Memories</a></h5>
-                                                    </div>
-                                                    <span class="category">Catering, Planning</span>
-                                                </div>
-                                            </div><!--ttm-box-view-overlay end-->
-                                        </div><!--featured-imagebox end-->
-                                    </div>
-                                    <div class="col-lg-4 col-md-4 col-sm-6 project_item catering stories">
-                                        <!--featured-imagebox-->
-                                        <div class="featured-imagebox featured-imagebox-portfolio style1">
-                                            <!--ttm-box-view-overlay-->
-                                            <div class="ttm-box-view-overlay">
-                                                <!--featured-thumbnail-->
-                                                <div class="featured-thumbnail">
-                                                    <a href="#"> <img class="img-fluid" src="images/portfolio/06.jpg" alt="image"></a>
-                                                </div><!--featured-thumbnail end-->
-                                                <div class="featured-content">
-                                                    <div class="featured-title">
-                                                        <h5><a href="wedding-vows.html">Wedding Vows</a></h5>
-                                                    </div>
-                                                    <span class="category">Planning</span>
-                                                </div>
-                                            </div><!--ttm-box-view-overlay end-->
-                                        </div><!--featured-imagebox end-->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    <div class="gal_container">
+    <?php
+require 'admin/process/dao.php';
+$val=   ticles();
+$count=0;
+foreach ($val as $cval) {
+$count=$count+1;
+// echo $cval['document']; 
+?>
+  <div class="gal_item"><a href="admin/upload/<?php echo $cval['document']; ?>" data-fancybox="gallery"><img src="admin/upload/<?php echo $cval['document']; ?>" alt="<?php echo $cval['document']; ?>"></a></div>
+<?php } ?>
+  
+</div>
                     </div>
                 </div>
             </div>
@@ -238,7 +130,8 @@
     <script src="js/jquery-isotope.js"></script>
     <script src="js/price_range_script.js"></script>
     <script src="js/main.js"></script>
-    
+      <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.js'></script>
     <!-- Javascript end-->
 
 
