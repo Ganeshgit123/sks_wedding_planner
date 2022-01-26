@@ -211,7 +211,7 @@
                         >We Can Help 
                         </a>
 
-                        <rs-layer
+                     <!--    <rs-layer
                             id="slider-3-slide-6-layer-5" 
                             data-type="text"
                             data-color="#dedede"
@@ -225,7 +225,7 @@
                             data-frame_999="o:0;st:w;sR:8150;"
                             style="z-index:8;font-family:Dancing Script;"
                         >SKS 
-                        </rs-layer>
+                        </rs-layer> -->
                     </rs-slide>
                 </rs-slides>
             </rs-module>

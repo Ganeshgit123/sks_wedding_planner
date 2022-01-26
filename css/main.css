@@ -1843,7 +1843,7 @@ ul.footer-nav-menu li:not(:last-child):after {
     width: 100%;
     padding: 170px 0 100px;
     text-align: center;
-    background-color: rgb(25 25 25 / 0.79);
+    background-color: rgb(25 25 25 / 44%);
 }
 .page-title-heading h2 {
     font-weight: 700;
