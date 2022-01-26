@@ -1,7 +1,7 @@
 <?php
 // error_reporting(0);
 
-$root_dir = "/opt/lampp/htdocs/sks/admin/";
+$root_dir = "../";
 
 error_reporting(E_ALL & ~E_NOTICE);
 
@@ -185,11 +185,11 @@ return($result);
 
 function listArticles() {
 global $root_dir; include $root_dir.'helpers/config.php';
-
 $outputarray = array();
 
 $query = "call list_articles()";
 $result = mysqli_query($conn, $query) or die(mysqli_error($conn));
+
 while ($row = mysqli_fetch_array($result)) {
 $obj = array("id" => $row['id'],
 "document_name" => $row['document_name'],

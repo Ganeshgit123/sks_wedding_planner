@@ -112,7 +112,7 @@
                         <a
                             id="slider-3-slide-7-layer-4" 
                             class="rs-layer"
-                            href="contact-us.php" target="_self" rel="nofollow"
+                            href="contact-us" target="_self" rel="nofollow"
                             data-type="text"
                             data-rsp_ch="on"
                             data-xy="x:c;y:m;yo:195px,195px,122px,70px;"
@@ -196,7 +196,7 @@
                         <a
                             id="slider-3-slide-6-layer-4" 
                             class="rs-layer"
-                            href="about.php" target="_self" rel="nofollow"
+                            href="about" target="_self" rel="nofollow"
                             data-type="text"
                             data-rsp_ch="on"
                             data-xy="x:0;x:c;y:m;yo:195px,195px,112px,70px;"
@@ -466,7 +466,7 @@
                                 </div>
                                 <div class="pt-20 pb-20 pl-50 pr-50 box-shadow d-flex align-items-center justify-content-between">
                                     <h5 class="mb-0">Do You Need Our Help ?</h5>
-                                    <a class="ttm-btn ttm-btn-size-xs ttm-btn-shape-squar ttm-btn-style-fill ttm-btn-color-skincolor" href="contact-us.php"><i class="ti ti-angle-right"></i></a>
+                                    <a class="ttm-btn ttm-btn-size-xs ttm-btn-shape-squar ttm-btn-style-fill ttm-btn-color-skincolor" href="contact-us"><i class="ti ti-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>

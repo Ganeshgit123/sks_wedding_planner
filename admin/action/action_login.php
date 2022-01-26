@@ -3,8 +3,8 @@ session_start();
 
 $username = get("username");
 $upassword = get("password");
-require_once '../process/dao.php';
 
+require_once '../process/dao.php';
 $exists = checkLogin($username,$upassword);
 
 if($exists>0){

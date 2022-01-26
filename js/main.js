@@ -250,25 +250,25 @@ $('.accordion .toggle-title').click(function(){
 /*------------------------------------------------------------------------------*/
 /* Prettyphoto
 /*------------------------------------------------------------------------------*/
-jQuery(document).ready(function(){
+// jQuery(document).ready(function(){
 
- // Normal link
-jQuery('a[href*=".jpg"], a[href*=".jpeg"], a[href*=".png"], a[href*=".gif"]').each(function(){
-    if( jQuery(this).attr('target')!='_blank' && !jQuery(this).hasClass('prettyphoto') && !jQuery(this).hasClass('modula-lightbox') ){
-        var attr = $(this).attr('data-gal');
-        if (typeof attr !== typeof undefined && attr !== false && attr!='prettyPhoto' ) {
-            jQuery(this).attr('data-rel','prettyPhoto');
-        }
-    }
-});     
+//  // Normal link
+// jQuery('a[href*=".jpg"], a[href*=".jpeg"], a[href*=".png"], a[href*=".gif"]').each(function(){
+//     if( jQuery(this).attr('target')!='_blank' && !jQuery(this).hasClass('prettyphoto') && !jQuery(this).hasClass('modula-lightbox') ){
+//         var attr = $(this).attr('data-gal');
+//         if (typeof attr !== typeof undefined && attr !== false && attr!='prettyPhoto' ) {
+//             jQuery(this).attr('data-rel','prettyPhoto');
+//         }
+//     }
+// });     
 
 
-jQuery('a[data-gal^="prettyPhoto"]').prettyPhoto();
-jQuery('a.ttm_prettyphoto').prettyPhoto();
-jQuery('a[data-gal^="prettyPhoto"]').prettyPhoto();
-jQuery("a[data-gal^='prettyPhoto']").prettyPhoto({hook: 'data-gal'})
+// jQuery('a[data-gal^="prettyPhoto"]').prettyPhoto();
+// jQuery('a.ttm_prettyphoto').prettyPhoto();
+// jQuery('a[data-gal^="prettyPhoto"]').prettyPhoto();
+// jQuery("a[data-gal^='prettyPhoto']").prettyPhoto({hook: 'data-gal'})
 
-});
+// });
     
    
 /*------------------------------------------------------------------------------*/

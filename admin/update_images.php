@@ -52,21 +52,26 @@ include 'helpers/side_header.php';
 <!-- /.col-xs-12 -->
 <div class="box-content card white">
 <div class="box-title row">
-    <div class='col-md-4'><h4>Update User</h4></div>
+    <div class='col-md-4'><h4>Update Image</h4></div>
     <div class='col-md-6'></div>
     <div class='col-md-2'> 
-        <a href='list_user.php'><button class="btn btn-warning">User List</button></a>
+        <a href='list_images.php'><button class="btn btn-warning">Images List</button></a>
     </div>
 </div>
- 
-  <?php              
-      require_once 'process/dao.php';    
-        $sid=$_GET["id"];
-        $listus= listArticlesById($sid);
-         ?>
-         <?php $count=0;
-            foreach ($listus as $cval) { ?>
+  <?php 
+include 'config.php';
+$sid=$_GET["id"];
+$sql = "select id, document_name,status, created_on, updated_on  from  articles where id=$sid;";
+$result = $conn->query($sql);
+if ($result->num_rows > 0) {
 
+ $data = $result-> fetch_all(MYSQLI_ASSOC);
+ 
+$i = 0;
+  foreach($data as $cval) {
+    $i++;
+?> 
+ 
 <div class="card-content">
 <form id="form" action="action/action_update_image.php" method="post" enctype="multipart/form-data">
   <div class="row"><span id="error"></span></div>
@@ -79,12 +84,12 @@ include 'helpers/side_header.php';
 <label for="exampleInputEmail1">Article Image<span class="required">*</span></label>
 <input type="file" class="form-control" name="file" id="file"/>
 <input type="hidden" name="old_image_name" value="<?php echo $cval['document_name']?>">
-<image src="<?php echo 'upload/'.$cval['document_name']; ?>" class="images" style="width:50px;height: 50px;" />
+<image src="<?php echo 'upload/'.$cval['document_name']; ?>" class="images" style="width:100px;height: 100px;" />
 </div>
 
 </div>
 </div>
-<?php }?>
+<?php } }?>
 <p class="text-center"><input type="submit" class="btn btn-primary btn-sm waves-effect waves-light" ></input></p>
 </div>
 </form>

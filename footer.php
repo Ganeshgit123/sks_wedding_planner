@@ -43,11 +43,11 @@
                             <div class="widget widget_nav_menu clearfix">
                                <h3 class="widget-title">Quick Links</h3>
                                 <ul class="menu-footer-services">
-                                    <li><a href="index.php">Home</a></li>
-                                    <li><a href="about-us.php">About Us</a></li>
-                                    <li><a href="gallery.php">Gallery</a></li>
-                                    <li><a href="#">Blog</a></li>
-                                    <li><a href="contact-us.php">Contact Us</a></li>
+                                    <li><a href="https://www.sksweddingplanner.com/">Home</a></li>
+                                    <li><a href="about-us">About Us</a></li>
+                                    <li><a href="gallery">Gallery</a></li>
+                                    <li><a href="https://sksweddingplanner.com/blog/" target="_blank">Blog</a></li>
+                                    <li><a href="contact-us">Contact Us</a></li>
                                 </ul>
                             </div>
      </div>
@@ -55,11 +55,11 @@
                             <div class="widget widget_nav_menu clearfix">
                                 <h3 class="widget-title">Our Services</h3>
                                 <ul class="menu-footer-services">
-                                    <li><a href="wedding_organizing.php">Wedding organizing</a></li>
-                                    <li><a href="birthday-party.php">Birthday Party organizing</a></li>
-                                    <li><a href="corporate-events.php">Corporate/ Business event organizing</a></li>
-                                    <li><a href="baby-shower-event.php">Baby shower & Naming ceremony organizing</a></li>
-                                    <li><a href="other-party.php">Other Parties organizing</a></li>
+                                    <li><a href="wedding-organizing">Wedding organizing</a></li>
+                                    <li><a href="birthday-party">Birthday Party organizing</a></li>
+                                    <li><a href="corporate-events">Corporate/ Business event organizing</a></li>
+                                    <li><a href="baby-shower-event">Baby shower & Naming ceremony organizing</a></li>
+                                    <li><a href="other-party">Other Parties organizing</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -79,7 +79,7 @@
 <div class="row copyright">
     <div class="col-md-12">
         <div class="text-center">
-            <span>Copyright ©<?php echo date("Y"); ?>.&nbsp;All rights reserved by SKS Wedding Planner.</span>
+            <span>Copyright ©<?php echo date("Y"); ?>.&nbsp;All rights reserved by SKS Wedding & Event Planner.</span>
         </div>
     </div>
 </div>

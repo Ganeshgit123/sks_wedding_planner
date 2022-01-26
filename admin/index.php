@@ -69,7 +69,7 @@ error_reporting(0);
 <script type="text/javascript">
 function callResult()
 {
-	// alert("sdkjk");
+// 	alert("sdkjk");
 var username=$('#uname').val();
 var password=$('#pswd').val();
 

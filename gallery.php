@@ -47,8 +47,8 @@
 
 <!-- REVOLUTION LAYERS STYLES -->
 <link rel='stylesheet' id='rs-plugin-settings-css' href="revolution/css/rs6.css"> 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.css" /><link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.css'>
-<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js'>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.css" />
+<link rel='stylesheet' type="text/css" href='https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.css'>
 </head>
 <body>
 
@@ -87,16 +87,20 @@
                 <div class="row mb_15">
                     <div class="col-lg-12">
                     <div class="gal_container">
-    <?php
-require 'admin/process/dao.php';
-$val=   ticles();
-$count=0;
-foreach ($val as $cval) {
-$count=$count+1;
-// echo $cval['document']; 
-?>
-  <div class="gal_item"><a href="admin/upload/<?php echo $cval['document']; ?>" data-fancybox="gallery"><img src="admin/upload/<?php echo $cval['document']; ?>" alt="<?php echo $cval['document']; ?>"></a></div>
-<?php } ?>
+ <?php 
+include 'config.php';
+$sql = "select id, document_name, created_by, status, created_on, updated_on  from  articles;";
+$result = $conn->query($sql);
+if ($result->num_rows > 0) {
+
+ $data = $result-> fetch_all(MYSQLI_ASSOC);
+ 
+$i = 0;
+  foreach($data as $row) {
+    $i++;
+?> 
+  <div class="gal_item"><a href="admin/upload/<?php echo $row['document_name']; ?>" data-fancybox="gallery"><img src="admin/upload/<?php echo $row['document_name']; ?>" alt="<?php echo $row['document_name']; ?>"></a></div>
+<?php } }?>
   
 </div>
                     </div>
@@ -130,6 +134,7 @@ $count=$count+1;
     <script src="js/jquery-isotope.js"></script>
     <script src="js/price_range_script.js"></script>
     <script src="js/main.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
       <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.js'></script>
     <!-- Javascript end-->

@@ -1,7 +1,7 @@
 <div class="main-menu">
 <header class="header">
 <a href="dashboard.php" class="logo">
-	<img src="assets/images/logo.svg" alt=""></a>
+	<img src="assets/images/logo-img.png" alt="" width="150px"></a>
 <button type="button" class="button-close fa fa-times js__menu_close"></button>
 </header>
 <!-- /.header -->

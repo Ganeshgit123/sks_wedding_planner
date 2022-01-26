@@ -17,7 +17,7 @@ if (!$_SESSION["user"]) {
 
 <link rel="icon" href="assets/images/favicon.ico">
 
-<title>VTL</title>
+<title>SKS</title>
 
 <!-- Main Styles -->
 <link rel="stylesheet" href="assets/styles/style.min.css">
@@ -74,36 +74,41 @@ include 'helpers/side_header.php';
       
 </thead>
 <tbody>
-
- <?php
-require_once 'process/dao.php';
-$val= listArticles();
-$count=0;
-foreach ($val as $cval) {
-$count=$count+1;
-?>
+ 
 <tr>
-<td><?php echo $count ?></td>
+ <?php 
+include 'config.php';
+$sql = "select id, document_name, created_by, status, created_on, updated_on  from  articles order by id desc;";
+$result = $conn->query($sql);
+if ($result->num_rows > 0) {
 
-<td><image src="<?php echo 'upload/'.$cval['document_name']; ?>" class="images" style="width:50px;height: 50px;" /></td>
+ $data = $result-> fetch_all(MYSQLI_ASSOC);
+ 
+$i = 0;
+  foreach($data as $row) {
+    $i++;
+?> 
+<td><?php echo $i ?></td>
 
-<td><?php if($cval['status']=='A'){
+<td><image src="<?php echo 'upload/'.$row['document_name']; ?>" class="images" style="width:100px;height: 100px;" /></td>
+
+<td><?php if($row['status']=='A'){
 echo 'Active';
 }else{
 echo 'Inactive';
 }?></td>
 
 <td>
-  <?php if($cval['status']=='A'){ ?>
-  <a href="action/action_update_image_status.php?id=<?php echo $cval['id']?>&status=<?php  echo 'I'?>">
+  <?php if($row['status']=='A'){ ?>
+  <a href="action/action_update_image_status.php?id=<?php echo $row['id']?>&status=<?php  echo 'I'?>">
     <button type="button" class="btn btn-danger btn-xs waves-effect waves-light">Inactive</button></a>
     <?php }else{?>
-      <a href="action/action_update_image_status.php?id=<?php  echo $cval['id']?>&status=<?php  echo 'A'?>">
+      <a href="action/action_update_image_status.php?id=<?php  echo $row['id']?>&status=<?php  echo 'A'?>">
         <button type="button" class="btn btn-success btn-xs waves-effect waves-light">Active</button>
       </a><?php } ?>
-      <a href="update_images.php?id=<?php echo $cval['id']?>">&nbsp;&nbsp;<button type="button" class="btn btn-warning btn-circle btn-xs waves-effect waves-light"><i class="ico fa fa-pencil"></i></button></a></td>
+      <a href="update_images.php?id=<?php echo $row['id']?>">&nbsp;&nbsp;<button type="button" class="btn btn-warning btn-circle btn-xs waves-effect waves-light"><i class="ico fa fa-pencil"></i></button></a></td>
 </tr>     
-<?php } ?> 
+<?php }  } ?>
 
 </tbody>
     
@@ -122,12 +127,7 @@ echo 'Inactive';
 <!-- /.main-content -->
 </div>
 </div><!--/#wrapper -->
-<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-<!--[if lt IE 9]>
-<script src="assets/script/html5shiv.min.js"></script>
-<script src="assets/script/respond.min.js"></script>
-<![endif]-->
-<!-- 
+
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="assets/scripts/jquery.min.js"></script>
@@ -146,7 +146,6 @@ echo 'Inactive';
 <script src="assets/scripts/rwd.demo.min.js"></script>
 
 <script src="assets/scripts/main.min.js"></script>
-<script src="assets/color-switcher/color-switcher.min.js"></script>
 
 <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
     <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
