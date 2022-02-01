@@ -4,10 +4,22 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="" />
-<meta name="description" content="" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-<title>SKS Wedding Planner</title>
+<title>Best South Indian Wedding and Event Planners, Consultants and Decoraters - SKS Wedding and Event Planner</title>
+<link rel="canonical" href="https://www.sksweddingplanner.com/gallery" />
+<meta name="description" content="SKS Wedding and Event Planners, the best wedding planners in Chennai, South India provides complete wedding planning A to Z services, including assistance with wedding budgets, decorations, and venues, as well as wedding photography and videography, wedding catering, wedding invitations, wedding bridal beautician services, wedding health and well-being packages, and entertainment." />
+
+<meta property="og:title" content="Best South Indian Wedding and Event Planners, Consultants and Decoraters - SKS Wedding and Event Planner">
+<meta property="og:url" content="https://www.sksweddingplanner.com/gallery">
+<meta property="og:image" content="https://www.sksweddingplanner.com/images/logo-img.png">
+<meta property="og:description" content="SKS Wedding and Event Planners, the best wedding planners in Chennai, South India provides complete wedding planning A to Z services, including assistance with wedding budgets, decorations, and venues, as well as wedding photography and videography, wedding catering, wedding invitations, wedding bridal beautician services, wedding health and well-being packages, and entertainment.">
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Best South Indian Wedding and Event Planners, Consultants and Decoraters - SKS Wedding and Event Planner">
+<meta name="twitter:image" content="https://www.sksweddingplanner.com/images/logo-img.png">
+<meta property="twitter:description" content="SKS Wedding and Event Planners, the best wedding planners in Chennai, South India provides complete wedding planning A to Z services, including assistance with wedding budgets, decorations, and venues, as well as wedding photography and videography, wedding catering, wedding invitations, wedding bridal beautician services, wedding health and well-being packages, and entertainment.">
+
 
 <!-- favicon icon -->
 <link rel="shortcut icon" href="images/favicon.png" />
@@ -86,6 +98,11 @@
                 <!-- row -->
                 <div class="row mb_15">
                     <div class="col-lg-12">
+                    <div class="section-title clearfix">
+                       <div class="title-header">
+                       <h1 class=text-center>SKS Wedding and Event Planner</h1>
+                        </div>
+</div>
                     <div class="gal_container">
  <?php 
 include 'config.php';

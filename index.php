@@ -4,10 +4,22 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="" />
-<meta name="description" content="" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-<title>SKS Wedding Planner</title>
+<title>SKS Wedding Planner - Best Wedding and Event Planner</title>
+<link rel="canonical" href="https://www.sksweddingplanner.com/" />
+<meta name="description" content="SKS Wedding and event planner is a one-stop shop for bespoke wedding planners in Chennai. We also plan team outings, religious milestone ceremonies, themed birthday parties and business event management company. From location research to themed wedding stage decorations to regular and peculiar entertainment alternatives." />
+
+<meta property="og:title" content="SKS Wedding Planner - Best Wedding and Event Planner">
+<meta property="og:url" content="https://www.sksweddingplanner.com/">
+<meta property="og:image" content="https://www.sksweddingplanner.com/images/logo-img.png">
+<meta property="og:description" content="SKS Wedding and event planner is a one-stop shop for bespoke wedding planners in Chennai. We also plan team outings, religious milestone ceremonies, themed birthday parties and business event management company. From location research to themed wedding stage decorations to regular and peculiar entertainment alternatives.">
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="SKS Wedding Planner - Best Wedding and Event Planner">
+<meta name="twitter:image" content="https://www.sksweddingplanner.com/images/logo-img.png">
+<meta property="twitter:description" content="SKS Wedding and event planner is a one-stop shop for bespoke wedding planners in Chennai. We also plan team outings, religious milestone ceremonies, themed birthday parties and business event management company. From location research to themed wedding stage decorations to regular and peculiar entertainment alternatives.">
+
 
 <!-- favicon icon -->
 <link rel="shortcut icon" href="images/favicon.png" />
@@ -196,7 +208,7 @@
                         <a
                             id="slider-3-slide-6-layer-4" 
                             class="rs-layer"
-                            href="about" target="_self" rel="nofollow"
+                            href="about-us" target="_self" rel="nofollow"
                             data-type="text"
                             data-rsp_ch="on"
                             data-xy="x:0;x:c;y:m;yo:195px,195px,112px,70px;"
@@ -252,7 +264,7 @@
                                 <!--section title-->
                                 <div class="section-title">
                                     <div class="title-header">
-                                        <h5>Welcome To Our SKS Wedding & Event Planner</h5>
+                                    <h1>SKS Wedding and Event Planner</h1>
                                     </div>
                                     <div class="title-desc">
                                         <p>If you're looking for the best Wedding Planners in Chennai, you've come to the right place. We are a one-stop shop for all of your wedding requirements. In today's fast-paced world, planning and organizing a wedding has become a time-consuming and difficult task. Don't worry, we're here to assist you. From a small wedding to a huge weeklong event, we manage every detail and create spectacular weddings.</p>

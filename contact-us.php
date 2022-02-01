@@ -4,10 +4,21 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="" />
-<meta name="description" content="" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-<title>SKS Wedding Planner</title>
+<title>Contact us - SKS Wedding and Event Planner </title>
+    <link rel="canonical" href="https://www.sksweddingplanner.com/contact-us" />
+<meta name="description" content="SKS Wedding and Event Planner is one of the best wedding planners in Chennai and South India, with offices throughout Tamil Nadu. We provide the best and new ideas, original styling, and creative insights to help you pull off your dream events! Feel free to contact us at 9043155994. " />
+
+<meta property="og:title" content="Contact us - SKS Wedding and Event Planner ">
+<meta property="og:url" content="https://www.sksweddingplanner.com/contact-us">
+<meta property="og:image" content="https://www.sksweddingplanner.com/images/logo-img.png">
+<meta property="og:description" content="SKS Wedding and Event Planner is one of the best wedding planners in Chennai and South India, with offices throughout Tamil Nadu. We provide the best and new ideas, original styling, and creative insights to help you pull off your dream events! Feel free to contact us at 9043155994.">
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Contact us - SKS Wedding and Event Planner ">
+<meta name="twitter:image" content="https://www.sksweddingplanner.com/images/logo-img.png">
+<meta property="twitter:description" content="SKS Wedding and Event Planner is one of the best wedding planners in Chennai and South India, with offices throughout Tamil Nadu. We provide the best and new ideas, original styling, and creative insights to help you pull off your dream events! Feel free to contact us at 9043155994.">
 
 <!-- favicon icon -->
 <link rel="shortcut icon" href="images/favicon.png" />
@@ -101,7 +112,7 @@
                                             <!-- section title -->
                                             <div class="section-title without-seperator">
                                                 <div class="title-header">
-                                                    <h2 class="title">We Provide The Best <br>Services</h2>
+                                                    <h1 class="title">SKS Wedding and Event Planners</h1>
                                                 </div>
                                             </div><!-- section title end -->
                                             <!-- featured-icon-box -->

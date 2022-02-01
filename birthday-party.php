@@ -4,10 +4,22 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="keywords" content="" />
-    <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <title>SKS Wedding Planner</title>
+    <title>Best Birthday Party Planners in Chennai | Themed Birthday Party Organisers - SKS Wedding and Event Planner</title>
+<link rel="canonical" href="https://www.sksweddingplanner.com/birthday-party" />
+<meta name="description" content="SKS Wedding and Event Planner, a theme party organiser or planner in Chennai, South India, is available 24 hours a day, 7 days a week to join you for the party." />
+
+<meta property="og:title" content="Best Birthday Party Planners in Chennai | Themed Birthday Party Organisers - SKS Wedding and Event Planner">
+<meta property="og:url" content="https://www.sksweddingplanner.com/birthday-party">
+<meta property="og:image" content="https://www.sksweddingplanner.com/images/logo-img.png">
+<meta property="og:description" content="SKS Wedding and Event Planner, a theme party organiser or planner in Chennai, South India, is available 24 hours a day, 7 days a week to join you for the party.">
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Best Birthday Party Planners in Chennai | Themed Birthday Party Organisers - SKS Wedding and Event Planner">
+<meta name="twitter:image" content="https://www.sksweddingplanner.com/images/logo-img.png">
+<meta property="twitter:description" content="SKS Wedding and Event Planner, a theme party organiser or planner in Chennai, South India, is available 24 hours a day, 7 days a week to join you for the party.">
+
 
     <!-- favicon icon -->
     <link rel="shortcut icon" href="images/favicon.png" />

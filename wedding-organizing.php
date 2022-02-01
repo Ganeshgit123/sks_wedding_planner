@@ -4,10 +4,22 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="keywords" content="" />
-    <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <title>SKS Wedding Planner</title>
+    <title>Best Wedding Planner Services in Chennai - SKS Wedding and Event Planner</title>
+<link rel="canonical" href="https://www.sksweddingplanner.com/wedding-organizing" />
+<meta name="description" content="Looking for a single point of contact for bespoke wedding planners in Chennai that cater to all budgets and faiths. Look no farther than SKS Wedding and Event Planner, who has coordinated best weddings and events in the last five years." />
+
+<meta property="og:title" content="Best Wedding Planner Services in Chennai - SKS Wedding and Event Planner">
+<meta property="og:url" content="https://www.sksweddingplanner.com/wedding-organizing">
+<meta property="og:image" content="https://www.sksweddingplanner.com/images/logo-img.png">
+<meta property="og:description" content="Looking for a single point of contact for bespoke wedding planners in Chennai that cater to all budgets and faiths. Look no farther than SKS Wedding and Event Planner, who has coordinated best weddings and events in the last five years.">
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Best Wedding Planner Services in Chennai - SKS Wedding and Event Planner">
+<meta name="twitter:image" content="https://www.sksweddingplanner.com/images/logo-img.png">
+<meta property="twitter:description" content="Looking for a single point of contact for bespoke wedding planners in Chennai that cater to all budgets and faiths. Look no farther than SKS Wedding and Event Planner, who has coordinated best weddings and events in the last five years.">
+
 
     <!-- favicon icon -->
     <link rel="shortcut icon" href="images/favicon.png" />

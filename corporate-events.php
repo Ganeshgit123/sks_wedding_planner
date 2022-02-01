@@ -4,10 +4,22 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="keywords" content="" />
-    <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <title>SKS Wedding Planner</title>
+    <title>Best Corporate Event Organizer Company in Chennai | Business Event Planner - SKS Wedding and Event Planner</title>
+<link rel="canonical" href="https://www.sksweddingplanner.com/corporate-events" />
+<meta name="description" content="SKS Wedding and Event Planner is the best corporate event organising company. It is more than just another event planning firm. For brands and individuals, we are a full-service event management agency that provides end-to-end event project management as well as global venue discovery." />
+
+<meta property="og:title" content="Best Corporate Event Organizer Company in Chennai | Business Event Planner - SKS Wedding and Event Planner">
+<meta property="og:url" content="https://www.sksweddingplanner.com/corporate-events">
+<meta property="og:image" content="https://www.sksweddingplanner.com/images/logo-img.png">
+<meta property="og:description" content="SKS Wedding and Event Planner is the best corporate event organising company. It is more than just another event planning firm. For brands and individuals, we are a full-service event management agency that provides end-to-end event project management as well as global venue discovery.">
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Best Corporate Event Organizer Company in Chennai | Business Event Planner - SKS Wedding and Event Planner">
+<meta name="twitter:image" content="https://www.sksweddingplanner.com/images/logo-img.png">
+<meta property="twitter:description" content="SKS Wedding and Event Planner is the best corporate event organising company. It is more than just another event planning firm. For brands and individuals, we are a full-service event management agency that provides end-to-end event project management as well as global venue discovery.">
+
 
     <!-- favicon icon -->
     <link rel="shortcut icon" href="images/favicon.png" />

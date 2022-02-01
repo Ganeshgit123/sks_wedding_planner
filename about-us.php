@@ -4,13 +4,23 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="keywords" content="" />
-    <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <title>SKS Wedding Planner</title>
+    <title>A to Z Service - Make a big day with unforgettable moments</title>
+    <link rel="canonical" href="https://www.sksweddingplanner.com/about-us" />
+<meta name="description" content="From A to Z Service, SKS Wedding and Events Planner is involved in the planning and execution of turnkey solutions for all your wedding and all event needs.  SKS Wedding and Event Planners in Chennai has been actively involved as a wedding and event brand a Chennai-based wedding and event management company. " />
 
+<meta property="og:title" content="A to Z Service - Make a big day with unforgettable moments">
+<meta property="og:url" content="https://www.sksweddingplanner.com/about-us">
+<meta property="og:image" content="https://www.sksweddingplanner.com/images/logo-img.png">
+<meta property="og:description" content="From A to Z Service, SKS Wedding and Events Planner is involved in the planning and execution of turnkey solutions for all your wedding and all event needs.  SKS Wedding and Event Planners in Chennai has been actively involved as a wedding and event brand a Chennai-based wedding and event management company. ">
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="A to Z Service - Make a big day with unforgettable moments">
+<meta name="twitter:image" content="https://www.sksweddingplanner.com/images/logo-img.png">
+<meta property="twitter:description" content="From A to Z Service, SKS Wedding and Events Planner is involved in the planning and execution of turnkey solutions for all your wedding and all event needs.  SKS Wedding and Event Planners in Chennai has been actively involved as a wedding and event brand a Chennai-based wedding and event management company. ">
     <!-- favicon icon -->
-    <link rel="shortcut icon" href="images/favicon.ico" />
+    <link rel="shortcut icon" href="images/favicon.png" />
 
     <!-- bootstrap -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
@@ -98,7 +108,7 @@
                                 <!--section title-->
                                 <div class="section-title clearfix">
                                     <div class="title-header">
-                                        <h5>Welcome To Our SKS Wedding & Event Planner</h5>
+                                        <h1>SKS Wedding and Event Planner</h1>
                                         <h2 class="title">Let us make your dream occasion into reality</h2>
                                     </div>
                                     <div class="title-desc">

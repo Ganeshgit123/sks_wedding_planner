@@ -4,10 +4,22 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="keywords" content="" />
-    <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <title>SKS Wedding Planner</title>
+    <title>Best Event Planner Company in Chennai - SKS Wedding and Event Planner</title>
+<link rel="canonical" href="https://www.sksweddingplanner.com/other-party" />
+<meta name="description" content="Plan your special occassion with SKS Wedding and Event Planner. We assist in the organisation of all your Functions, events and parties in Chennai, Tamilnadu as well as overall South India. Since we have a thorough awareness of all ethnic views." />
+
+<meta property="og:title" content="Best Event Planner Company in Chennai - SKS Wedding and Event Planner">
+<meta property="og:url" content="https://www.sksweddingplanner.com/other-party">
+<meta property="og:image" content="https://www.sksweddingplanner.com/images/logo-img.png">
+<meta property="og:description" content="Plan your special occassion with SKS Wedding and Event Planner. We assist in the organisation of all your Functions, events and parties in Chennai, Tamilnadu as well as overall South India. Since we have a thorough awareness of all ethnic views.">
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Best Event Planner Company in Chennai - SKS Wedding and Event Planner">
+<meta name="twitter:image" content="https://www.sksweddingplanner.com/images/logo-img.png">
+<meta property="twitter:description" content="Plan your special occassion with SKS Wedding and Event Planner. We assist in the organisation of all your Functions, events and parties in Chennai, Tamilnadu as well as overall South India. Since we have a thorough awareness of all ethnic views.">
+
 
     <!-- favicon icon -->
     <link rel="shortcut icon" href="images/favicon.png" />
