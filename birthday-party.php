@@ -415,7 +415,7 @@
                                         </div>
                                          <div class="col-md-6">
                                             <div class="ttm-featured-wrapper mt-20 res-991-mb-40">
-                                                <img class="img-fluid" src="images/services/birthday_entertainment.jpg"
+                                                <img class="img-fluid" src="images/services/balloon_sculptures.jpg"
                                                     alt="">
                                             </div>
                                         </div>

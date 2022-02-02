@@ -122,15 +122,7 @@
                                                 wedding day by taking full responsibility for the planning and execution
                                                 of your event. You can rely on us to provide assistance on the day of
                                                 your wedding or to plan and execute the entire event!</p>
-
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="ttm-featured-wrapper mt-20 res-991-mb-40">
-                                                <img class="img-fluid" src="images/services/wedding-planner.jpg" alt="">
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12">
-                                            <p>Weddings are not only a significant event in a family's life, but they
+                                                <p>Weddings are not only a significant event in a family's life, but they
                                                 are also a costly affair. It's tough to manage everything on your own
                                                 with so many routines to follow and so many arrangements to make.
                                                 Everything takes time, patience, and competence, from buying dresses to
@@ -138,6 +130,11 @@
                                                 commonly acknowledged that not everyone has the luxury of taking care of
                                                 everything. Are you planning a family wedding in Chennai? Simply contact
                                                 us to discover how we can assist you.</p>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="ttm-featured-wrapper mt-20 res-991-mb-40">
+                                                <img class="img-fluid" src="images/services/wedding_planning.jpg" alt="">
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -442,7 +439,7 @@
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="ttm-featured-wrapper mt-20 res-991-mb-40">
-                                                <img class="img-fluid" src="images/services/wedding_entertainment.jpg"
+                                                <img class="img-fluid" src="images/services/wedding_fireworks.jpg"
                                                     alt="">
                                             </div>
                                         </div>
@@ -477,11 +474,9 @@
                                             </ul>
                                                 </div>
                                             </div>
-                                                                            </div>
-                                        <div class="col-md-12">
                                             <p>For muhurtham, we will also organize the best nadhaswaram group to make a
                                                 special occasion as the best moment.</p>
-                                        </div>
+                                                                            </div>
                                     </div>
                                 </div>
 
