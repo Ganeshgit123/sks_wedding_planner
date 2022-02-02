@@ -111,7 +111,7 @@
                                         </div>
                                         <div class="col-md-6">
                                             <div class="ttm-featured-wrapper mt-20 res-991-mb-40">
-                                                <img class="img-fluid" src="images/services/baby_shower_ceremony.jpg" alt="">
+                                                <img class="img-fluid" src="images/services/baby_shower.gif" alt="">
                                             </div>
                                         </div>
                                     </div>
