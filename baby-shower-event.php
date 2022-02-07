@@ -59,6 +59,7 @@
 
     <!-- REVOLUTION LAYERS STYLES -->
     <link rel='stylesheet' id='rs-plugin-settings-css' href="revolution/css/rs6.css">
+    <?php include'head_script.php'?>
 
 </head>
 
