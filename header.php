@@ -7,8 +7,8 @@
                             <!-- site-branding -->
                             <div class="site-branding">
                                 <a class="home-link" href="https://www.sksweddingplanner.com/" title="sks" rel="home">
-                                    <img id="logo-img" class="img-center standardlogo" src="images/logo-img.png" alt="logo-img">
-                                    <img id="logo-dark" class="img-center stickylogo" src="images/logo-img.png" alt="logo-img">
+                                    <img id="logo-img" class="img-center standardlogo" src="images/logo-img.png" width="100%" height="80px" alt="logo-img">
+                                    <!-- <img id="logo-dark" class="img-center stickylogo" src="images/logo-img.png" width="100%" height="80px" alt="logo-img"> -->
                                 </a>
                             </div><!-- site-branding end -->
                             <div class="btn-show-menu-mobile menubar menubar--squeeze">

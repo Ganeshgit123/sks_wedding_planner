@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SKS Wedding Planner - Best Wedding and Event Planner</title>
 <link rel="canonical" href="https://www.sksweddingplanner.com/" />
 <meta name="description" content="SKS Wedding and event planner is a one-stop shop for bespoke wedding planners in Chennai. We also plan team outings, religious milestone ceremonies, themed birthday parties and business event management company. From location research to themed wedding stage decorations to regular and peculiar entertainment alternatives." />
@@ -257,7 +257,7 @@
                         <div class="col-lg-6 col-sm-12">
                             <!--ttm_single_image-wrapper-->
                             <div class="ttm_single_image-wrapper">
-                                <img class="img-fluid" src="images/creative_agency.jpg" title="single-img-four" alt="single-img-four">
+                                <img class="img-fluid" src="images/creative_agency.jpg" width="100%" height="100%" title="single-img-four" alt="single-img-four">
                             </div><!--ttm_single_image-wrapper end-->
                         </div>
                         <div class="col-lg-6 col-sm-12">
@@ -475,7 +475,7 @@
                             <div class="d-inline-block ml-50 res-991-ml-0">
                                 <!--ttm_single_image-wrapper-->
                                 <div class="ttm_single_image-wrapper res-991-pt-40">
-                                    <img class="img-fluid" src="images/our_wedding_service.jpg" alt="single_05">
+                                    <img class="img-fluid" src="images/our_wedding_service.jpg" width="100%" height="100%" alt="single_05">
                                 </div>
                                 <div class="pt-20 pb-20 pl-50 pr-50 box-shadow d-flex align-items-center justify-content-between">
                                     <h5 class="mb-0">Do You Need Our Help ?</h5>
