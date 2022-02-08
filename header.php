@@ -34,7 +34,7 @@
                                         </ul>
                                     </li>
                                     <li class="<?php if($page=='gallery'){echo 'active';}?>"><a href="gallery">Gallery</a></li>
-                                    <li><a href="https://sksweddingplanner.com/blog/" target="_blank">Blog</a></li>
+                                    <li><a rel="noreferrer" href="https://sksweddingplanner.com/blog/" target="_blank">Blog</a></li>
                                     <li class="<?php if($page=='contact'){echo 'active';}?>"><a href="contact-us">Contact Us</a></li>
                                 </ul>
                             </nav>

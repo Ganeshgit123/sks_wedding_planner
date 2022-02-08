@@ -244,16 +244,10 @@
     <script src="js/jquery-validate.js"></script> 
     <script src="js/jquery.prettyPhoto.js"></script>
     <script src="js/slick.min.js"></script>
-    <script src="js/numinate.min.js"></script>
     <script src="js/imagesloaded.min.js"></script>
     <script src="js/jquery-isotope.js"></script>
     <script src="js/price_range_script.js"></script>
     <script src="js/main.js"></script>
-
-
-    <script src="js/map.js"></script>
-    <script src="https://maps.google.com/maps/api/js?sensor=false"></script>
-
     <!-- Javascript end-->
 
 </body>

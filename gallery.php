@@ -149,7 +149,6 @@ $i = 0;
     <script src="js/jquery-validate.js"></script> 
     <script src="js/jquery.prettyPhoto.js"></script>
     <script src="js/slick.min.js"></script>
-    <script src="js/numinate.min.js"></script>
     <script src="js/imagesloaded.min.js"></script>
     <script src="js/jquery-isotope.js"></script>
     <script src="js/price_range_script.js"></script>

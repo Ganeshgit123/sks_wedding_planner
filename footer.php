@@ -11,27 +11,27 @@
             <div class="social-icons circle social-hover">
                 <ul class="list-inline">
                     <li class="social-facebook">
-                        <a class="tooltip-top" target="_blank" href="https://www.facebook.com/SKS-Wedding-Planner-102633498858246/?ref=pages_you_manage" data-tooltip="Facebook">
+                        <a class="tooltip-top" rel="noreferrer" target="_blank" href="https://www.facebook.com/SKS-Wedding-Planner-102633498858246/?ref=pages_you_manage" data-tooltip="Facebook">
                             <i class="fa fa-facebook" aria-hidden="true"></i>
                         </a>
                     </li>
                     <li class="social-twitter">
-                        <a class="tooltip-top" target="_blank" href="https://twitter.com/SksWedding" data-tooltip="Twitter">
+                        <a class="tooltip-top" rel="noreferrer" target="_blank" href="https://twitter.com/SksWedding" data-tooltip="Twitter">
                             <i class="fa fa-twitter" aria-hidden="true"></i>
                         </a>
                     </li>
                     <li class="social-flickr">
-                        <a class=" tooltip-top" target="_blank" href="https://www.instagram.com/sksweddingplanner/" data-tooltip="Instagram">
+                        <a class=" tooltip-top" rel="noreferrer" target="_blank" href="https://www.instagram.com/sksweddingplanner/" data-tooltip="Instagram">
                             <i class="fa fa-instagram" aria-hidden="true"></i>
                         </a>
                     </li>
                     <li class="social-linkedin">
-                        <a class=" tooltip-top" target="_blank" href="https://in.pinterest.com/kalyanasundreeswarar/_created/" data-tooltip="Pinterest">
+                        <a class=" tooltip-top" rel="noreferrer" target="_blank" href="https://in.pinterest.com/kalyanasundreeswarar/_created/" data-tooltip="Pinterest">
                             <i class="fa fa-pinterest" aria-hidden="true"></i>
                         </a>
                     </li>
                     <li class="social-youtube">
-                        <a class=" tooltip-top" target="_blank" href="https://www.youtube.com/channel/UCOFRnO93uWPrP8zMsCivpVw" data-tooltip="Youtube">
+                        <a class=" tooltip-top" rel="noreferrer" target="_blank" href="https://www.youtube.com/channel/UCOFRnO93uWPrP8zMsCivpVw" data-tooltip="Youtube">
                             <i class="fa fa-youtube" aria-hidden="true"></i>
                         </a>
                     </li>
@@ -46,7 +46,7 @@
                                     <li><a href="https://www.sksweddingplanner.com/">Home</a></li>
                                     <li><a href="about-us">About Us</a></li>
                                     <li><a href="gallery">Gallery</a></li>
-                                    <li><a href="https://sksweddingplanner.com/blog/" target="_blank">Blog</a></li>
+                                    <li><a rel="noreferrer" href="https://sksweddingplanner.com/blog/" target="_blank">Blog</a></li>
                                     <li><a href="contact-us">Contact Us</a></li>
                                 </ul>
                             </div>
