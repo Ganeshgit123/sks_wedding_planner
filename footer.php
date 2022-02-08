@@ -15,6 +15,11 @@
                             <i class="fa fa-facebook" aria-hidden="true"></i>
                         </a>
                     </li>
+                    <li class="social-linkedin">
+                        <a class="tooltip-top" rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/sksweddingandeventplanner/" data-tooltip="Linkedin">
+                            <i class="fa fa-linkedin" aria-hidden="true"></i>
+                        </a>
+                    </li>
                     <li class="social-twitter">
                         <a class="tooltip-top" rel="noreferrer" target="_blank" href="https://twitter.com/SksWedding" data-tooltip="Twitter">
                             <i class="fa fa-twitter" aria-hidden="true"></i>
