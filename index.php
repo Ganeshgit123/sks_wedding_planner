@@ -554,26 +554,23 @@
                 </div>
             </section>
             <!--connect-section end-->
-
+             <br>
                        <!--testimonial-section-->
-            <section class="ttm-row testimonial-section bg-img12 ttm-bg ttm-bgimage-yes clearfix">
+            <!-- <section class="ttm-row testimonial-section bg-img12 ttm-bg ttm-bgimage-yes clearfix">
                 <div class="container">
-                    <!--row-->
                     <div class="row">
                         <div class="col-lg-12">
-                            <!--section title-->
                             <div class="section-title title-style-center_text">
                                 <div class="title-header">
                                     <h5>Beautiful Client</h5>
                                     <h2 class="title">What Our Clients Say?</h2>
                                 </div>
-                            </div><!--section title end-->
+                            </div>
                         </div>
-                    </div><!--row end-->
-                    <!--row-->
+                    </div>
+
                     <div class="row slick_slider text-center" data-slick='{"slidesToShow": 2, "slidesToScroll": 1, "arrows":false, "autoplay":true, "dots":false, "infinite":true, "responsive":[{"breakpoint":1199,"settings": {"slidesToShow": 3}}, {"breakpoint":992,"settings":{"slidesToShow": 2}},{"breakpoint":620,"settings":{"slidesToShow": 1}}]}'>
                         <div class="col-lg-6">
-                            <!--testimonials-->
                             <div class="testimonials style1"> 
                                 <div class="testimonial-avatar">
                                     <div class="testimonial-img">
@@ -589,10 +586,9 @@
                                         <label>Beauty Bride</label>
                                     </div>
                                 </div>
-                            </div><!--testimonials end-->
+                            </div>
                         </div>
                         <div class="col-lg-6">
-                            <!-- testimonials-->
                             <div class="testimonials style1"> 
                                 <div class="testimonial-avatar">
                                     <div class="testimonial-img">
@@ -607,10 +603,9 @@
                                         <label>Event Guest</label>
                                     </div>
                                 </div>
-                            </div><!--testimonials end-->
+                            </div>
                         </div>
                         <div class="col-lg-6">
-                            <!--testimonials-->
                             <div class="testimonials style1"> 
                                 <div class="testimonial-avatar">
                                     <div class="testimonial-img">
@@ -626,10 +621,9 @@
                                         <label>Wedding Couple</label>
                                     </div>
                                 </div>
-                            </div><!--testimonials end-->
+                            </div>
                         </div>
                         <div class="col-lg-6">
-                            <!--testimonials -->
                             <div class="testimonials style1"> 
                                 <div class="testimonial-avatar">
                                     <div class="testimonial-img">
@@ -644,11 +638,11 @@
                                         <label>Event Guest</label>
                                     </div>
                                 </div>
-                            </div><!--testimonials end-->
+                            </div>
                         </div>
-                    </div><!--row end-->
+                    </div>
                 </div>
-            </section>
+            </section> -->
             <!--testimonial-section end-->
 
         </div><!-- site-main end -->
