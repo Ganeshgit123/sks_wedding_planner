@@ -417,12 +417,7 @@ rs-alyer *:not(.rs-wtbindex),
 
 	
 /* CAROUSEL FUNCTIONS */
-rs-carousel-wrap {
-	cursor:url(openhand.html), move;
-}
-rs-carousel-wrap.dragged {
-	cursor:url(closedhand.html), move;
-}
+
 
 rs-carousel-wrap.noswipe {
 	cursor: default;
@@ -776,10 +771,10 @@ rs-module h6.rs-layer:before { content: none; }
 *********************************/
 rs-dotted						{	background-repeat:repeat;width:100%;height:100%;position:absolute;top:0px;left:0px;z-index:3;display:block;pointer-events: none}
 rs-sbg-wrap rs-dotted 			{ z-index: 31 }
-rs-dotted.twoxtwo				{	background:url(../assets/gridtile.html)}
+/* rs-dotted.twoxtwo				{	background:url(../assets/gridtile.html)}
 rs-dotted.twoxtwowhite			{	background:url(../assets/gridtile_white.html)}
 rs-dotted.threexthree			{	background:url(../assets/gridtile_3x3.html)}
-rs-dotted.threexthreewhite		{	background:url(../assets/gridtile_3x3_white.html)}
+rs-dotted.threexthreewhite		{	background:url(../assets/gridtile_3x3_white.html)} */
 
 
 /******************************
@@ -1100,8 +1095,8 @@ rs-progress-vis 				{ 	display:block;width: 100%;height: 100%; position: absolut
 
 .rs-layer.slidelink { cursor:pointer;width:100%;height:100%; }
 .rs-layer.slidelink a {	width:100%;height:100%;display:block}
-.rs-layer.slidelink a div {	width:3000px; height:1500px;  background:url(../assets/coloredbg.html) repeat}
-.rs-layer.slidelink a span{	background:url(../assets/coloredbg.html) repeat; width:100%;height:100%;display:block}
+/* .rs-layer.slidelink a div {	width:3000px; height:1500px;  background:url(../assets/coloredbg.html) repeat}
+.rs-layer.slidelink a span{	background:url(../assets/coloredbg.html) repeat; width:100%;height:100%;display:block} */
 /*.tp-shape {	width:100%;height:100%;}*/
 
 
